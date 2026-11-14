@@ -1,0 +1,1 @@
+{"private":true,"type":"module","scripts":{"baixar":"node baixar.mjs","simular":"node simular.mjs","start":"node servidor.mjs"}}

@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="pt-BR">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PokéIdle | Simulador de hunts</title>
+<style>
+:root { color-scheme: dark; font-family: "Geist", "Segoe UI", system-ui, sans-serif; color: #edf3f7; background: #101519; }
+* { box-sizing: border-box }
+body { margin: 0; min-height: 100vh; background: radial-gradient(ellipse at 85% 0%, #203c37 0%, transparent 40rem), #101519 }
+main { width: min(1120px, calc(100% - 32px)); margin: 0 auto; padding: clamp(32px, 7vw, 84px) 0 }
+h1 { font-size: clamp(2.3rem, 6vw, 4.5rem); letter-spacing: -.065em; line-height: 1; margin: 0 0 1.5rem }
+h1::after { content: ""; display: block; background: #94efb5; width: 46px; height: 4px; border-radius: 4px; margin-top: 1.25rem }
+form, .results { background: #171f24; border: 1px solid #344247; border-radius: 18px; padding: clamp(16px, 3vw, 30px); box-shadow: 0 16px 44px #0003 }
+label { display: block; font-size: .86rem; font-weight: 650; color: #c5d3da }
+textarea, input, select, button { font: inherit; border: 1px solid #46565e; border-radius: 8px; background: #11181c; color: #edf3f7; padding: .65rem .8rem }
+textarea { display: block; width: 100%; margin-top: .5rem; min-height: 8rem; resize: vertical; line-height: 1.6 }
+textarea::placeholder { color: #9bafb9 }
+.options { display: flex; flex-wrap: wrap; align-items: end; gap: .85rem 1.25rem; margin: 1.15rem 0 }
+.options label:has(select), .options label:has(input[type=number]) { display: grid; gap: .4rem }
+.options label:has(input[type=checkbox]) { display: flex; align-items: center; gap: .45rem; padding: .65rem 0 }
+input[type=number] { width: 100%; min-width: 7rem }
+input[type=checkbox] { accent-color: #94efb5 }
+button { background: #94efb5; color: #10291d; font-weight: 750; border-color: transparent; padding: .7rem 1.4rem; cursor: pointer }
+button:hover:not(:disabled) { background: #b4f8ca }
+button:disabled { opacity: .55; cursor: wait }
+:focus-visible { outline: 2px solid #94efb5; outline-offset: 3px }
+#status { color: #b6c7cf; margin: 1.15rem 0; font-size: .9rem }
+.results { overflow-x: auto }
+.results label { display: flex; align-items: center; gap: .75rem; margin-bottom: 1rem }
+table { width: 100%; border-collapse: collapse; white-space: nowrap; font-variant-numeric: tabular-nums }
+th, td { text-align: right; padding: .85rem .7rem; border-bottom: 1px solid #303e45 }
+th { color: #b6c7cf; font-size: .8rem; font-weight: 650 }
+th:first-child, td:first-child { text-align: left }
+td:first-child { font-weight: 700 }
+td:nth-child(4) { color: #94efb5; font-weight: 750 }
+tbody tr:hover { background: #222e33 }
+tbody tr:last-child td { border-bottom: 0 }
+@media (max-width: 600px) { .options { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)) } .options select { min-width: 0 } }
+main:has(#results:not([hidden])) { width: calc(100% - 32px); padding-top: 24px }
+main:has(#results:not([hidden])) h1 { font-size: clamp(1.75rem, 4vw, 2.75rem); margin-bottom: 1rem }
+main:has(#results:not([hidden])) h1::after { display: none }
+.results-toolbar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .75rem; margin-bottom: 1rem }
+.results-toolbar label { margin: 0 }
+.site-header { border-bottom: 1px solid #344247; background: #101519 }
+.site-brand { display: flex; align-items: center; gap: .7rem; width: min(1120px, calc(100% - 32px)); margin: 0 auto; padding: .85rem 0; font-size: 1.15rem; font-weight: 800; letter-spacing: -.025em }
+body:has(#results:not([hidden])) .site-brand { width: calc(100% - 32px) }
+.site-brand-mark { width: .8rem; height: .8rem; border: 2px solid #94efb5; border-radius: 50%; box-shadow: inset 0 0 0 2px #101519; background: #94efb5 }
+.metric-help-button { display: inline-grid; place-items: center; width: 1.25rem; height: 1.25rem; margin-left: .35rem; padding: 0; border: 1px solid #607871; border-radius: 50%; background: #202e2d; color: #a9f2c4; vertical-align: middle }
+.metric-help-button:hover:not(:disabled) { background: #94efb5; color: #10291d }
+#metric-help { max-width: min(28rem, calc(100% - 32px)); padding: 1.5rem; border: 1px solid #46565e; border-radius: 14px; background: #171f24; color: #edf3f7 }
+#metric-help::backdrop { background: #080c10bb }
+#metric-help h2 { margin: 0 }
+#metric-help p { line-height: 1.55 }
+#metric-help form { padding: 0; border: 0; background: transparent; box-shadow: none }
+main h1 { margin-bottom: .45rem }
+main h1::after { display: none }
+.byline { margin: 0 0 1rem; color: #94efb5; font-size: .9rem; font-weight: 650 }
+.site-intro { max-width: 72ch; margin: 0 0 1.5rem; color: #c5d3da; line-height: 1.55 }
+main:has(#results:not([hidden])) h1 { margin-bottom: .45rem }
+main:has(#results:not([hidden])) .site-intro { display: none }
+#ficha-ajuda { margin: .35rem 0 .5rem; color: #b6c7cf; font-size: .86rem; line-height: 1.5 }
+</style>
+<header class="site-header">
+  <div class="site-brand"><span class="site-brand-mark" aria-hidden="true"></span>PokéIdle</div>
+</header>
+<main>
+<h1>Simulador de hunts</h1>
+<p class="byline">by @sgtlighning</p>
+<p class="site-intro">Fiz este simulador porque, quando você ainda está conhecendo os Pokémon e o PokéIdle, é fácil escolher a hunt só pelo XP/h. Aí, quando finalmente sai um shiny, dá aquela tristeza de perceber que a evolução final dele é fraca. Com um encontro tão raro, é uma pena desperdiçar a chance. Por isso, ajustei as recomendações para equilibrar o XP/h com a força da evolução final dos Pokémon da hunt, incluindo Megas.</p>
+<form id="hunt">
+<label for="ficha">Ficha do Pokémon</label>
+<p id="ficha-ajuda">No PokéIdle, clique no seu Pokémon, escolha <strong>Copiar p/ ChatGPT</strong> e cole a ficha abaixo.</p>
+<textarea id="ficha" name="ficha" rows="7" required aria-describedby="ficha-ajuda" placeholder="Cole a ficha aqui"></textarea>
+<div class="options">
+<label>Nível do treinador <input name="nivel" type="number" min="1" step="1" required></label>
+<label><input name="liberadas" type="checkbox" checked> Só hunts liberadas</label>
+<label>AoE <select name="aoe"><option value="">Da ficha</option><option value="sim">Ligado</option><option value="nao">Desligado</option></select></label>
+<label>Tipo do dia <select name="tipo"><option value="">Nenhum</option></select></label>
+<label>Bola <select name="bola"><option value="">Padrão do motor</option></select></label>
+</div>
+<button id="run" disabled>Simular</button>
+</form>
+<p id="status" role="status">Carregando o motor…</p>
+<section id="results" class="results" hidden>
+<div class="results-toolbar"><button id="back" type="button">← Voltar à simulação</button><label>Ordenar por <select id="sort"></select></label></div>
+<table><thead><tr id="headers"><th scope="col">Hunt</th><th scope="col">Mapa</th><th scope="col">Nível</th></tr></thead><tbody id="rows"></tbody></table>
+</section>
+</main>
+<dialog id="metric-help" aria-labelledby="metric-help-title" aria-describedby="metric-help-text">
+  <h2 id="metric-help-title"></h2>
+  <p id="metric-help-text"></p>
+  <form method="dialog"><button autofocus>Fechar</button></form>
+</dialog>
+<script type="module" src="./web.js"></script>
+</html>

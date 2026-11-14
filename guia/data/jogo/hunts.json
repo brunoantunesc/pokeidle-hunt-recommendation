@@ -1,0 +1,12522 @@
+{
+ "_origem": "welcome do jogo, importado em 2026-11-07: welcome-jogo.json do PokeIdle Launcher de 07/11/2026 (jogo 1.408.7).",
+ "provisorio": false,
+ "hunts": [
+  {
+   "slug": "bellsprout",
+   "nome": "Bellsprout",
+   "regiao": "kanto",
+   "nivel": 1,
+   "especies": [
+    {
+     "pokeId": 69,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "caterpie",
+   "nome": "Caterpie",
+   "regiao": "kanto",
+   "nivel": 1,
+   "especies": [
+    {
+     "pokeId": 10,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "geodude",
+   "nome": "Geodude",
+   "regiao": "kanto",
+   "nivel": 1,
+   "especies": [
+    {
+     "pokeId": 74,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "magikarp",
+   "nome": "Magikarp",
+   "regiao": "kanto",
+   "nivel": 1,
+   "especies": [
+    {
+     "pokeId": 129,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "oddish",
+   "nome": "Oddish",
+   "regiao": "kanto",
+   "nivel": 1,
+   "especies": [
+    {
+     "pokeId": 43,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "paras",
+   "nome": "Paras",
+   "regiao": "kanto",
+   "nivel": 1,
+   "especies": [
+    {
+     "pokeId": 46,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "pidgey",
+   "nome": "Pidgey",
+   "regiao": "kanto",
+   "nivel": 1,
+   "especies": [
+    {
+     "pokeId": 16,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "poliwag",
+   "nome": "Poliwag",
+   "regiao": "kanto",
+   "nivel": 1,
+   "especies": [
+    {
+     "pokeId": 60,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "rattata",
+   "nome": "Rattata",
+   "regiao": "kanto",
+   "nivel": 1,
+   "especies": [
+    {
+     "pokeId": 19,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "weedle",
+   "nome": "Weedle",
+   "regiao": "kanto",
+   "nivel": 1,
+   "especies": [
+    {
+     "pokeId": 13,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "abra",
+   "nome": "Abra",
+   "regiao": "kanto",
+   "nivel": 10,
+   "especies": [
+    {
+     "pokeId": 63,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "diglett",
+   "nome": "Diglett",
+   "regiao": "kanto",
+   "nivel": 10,
+   "especies": [
+    {
+     "pokeId": 50,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "doduo",
+   "nome": "Doduo",
+   "regiao": "kanto",
+   "nivel": 10,
+   "especies": [
+    {
+     "pokeId": 84,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "ekans",
+   "nome": "Ekans",
+   "regiao": "kanto",
+   "nivel": 10,
+   "especies": [
+    {
+     "pokeId": 23,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "exeggcute",
+   "nome": "Exeggcute",
+   "regiao": "kanto",
+   "nivel": 10,
+   "especies": [
+    {
+     "pokeId": 102,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "goldeen",
+   "nome": "Goldeen",
+   "regiao": "kanto",
+   "nivel": 10,
+   "especies": [
+    {
+     "pokeId": 118,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "grimer",
+   "nome": "Grimer",
+   "regiao": "kanto",
+   "nivel": 10,
+   "especies": [
+    {
+     "pokeId": 88,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "horsea",
+   "nome": "Horsea",
+   "regiao": "kanto",
+   "nivel": 10,
+   "especies": [
+    {
+     "pokeId": 116,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "kakuna",
+   "nome": "Kakuna",
+   "regiao": "kanto",
+   "nivel": 10,
+   "especies": [
+    {
+     "pokeId": 14,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "koffing",
+   "nome": "Koffing",
+   "regiao": "kanto",
+   "nivel": 10,
+   "especies": [
+    {
+     "pokeId": 109,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "krabby",
+   "nome": "Krabby",
+   "regiao": "kanto",
+   "nivel": 10,
+   "especies": [
+    {
+     "pokeId": 98,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "magnemite",
+   "nome": "Magnemite",
+   "regiao": "kanto",
+   "nivel": 10,
+   "especies": [
+    {
+     "pokeId": 81,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "mankey",
+   "nome": "Mankey",
+   "regiao": "kanto",
+   "nivel": 10,
+   "especies": [
+    {
+     "pokeId": 56,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "metapod",
+   "nome": "Metapod",
+   "regiao": "kanto",
+   "nivel": 10,
+   "especies": [
+    {
+     "pokeId": 11,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "nidoranfe",
+   "nome": "Nidoranfe",
+   "regiao": "kanto",
+   "nivel": 10,
+   "especies": [
+    {
+     "pokeId": 29,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "nidoranma",
+   "nome": "Nidoranma",
+   "regiao": "kanto",
+   "nivel": 10,
+   "especies": [
+    {
+     "pokeId": 32,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "shellder",
+   "nome": "Shellder",
+   "regiao": "kanto",
+   "nivel": 10,
+   "especies": [
+    {
+     "pokeId": 90,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "slowpoke",
+   "nome": "Slowpoke",
+   "regiao": "kanto",
+   "nivel": 10,
+   "especies": [
+    {
+     "pokeId": 79,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "spearow",
+   "nome": "Spearow",
+   "regiao": "kanto",
+   "nivel": 10,
+   "especies": [
+    {
+     "pokeId": 21,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "tentacool",
+   "nome": "Tentacool",
+   "regiao": "kanto",
+   "nivel": 10,
+   "especies": [
+    {
+     "pokeId": 72,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "voltorb",
+   "nome": "Voltorb",
+   "regiao": "kanto",
+   "nivel": 10,
+   "especies": [
+    {
+     "pokeId": 100,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "zubat",
+   "nome": "Zubat",
+   "regiao": "kanto",
+   "nivel": 10,
+   "especies": [
+    {
+     "pokeId": 41,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "bulbasaur",
+   "nome": "Bulbasaur",
+   "regiao": "kanto",
+   "nivel": 20,
+   "especies": [
+    {
+     "pokeId": 1,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "charmander",
+   "nome": "Charmander",
+   "regiao": "kanto",
+   "nivel": 20,
+   "especies": [
+    {
+     "pokeId": 4,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "cubone",
+   "nome": "Cubone",
+   "regiao": "kanto",
+   "nivel": 20,
+   "especies": [
+    {
+     "pokeId": 104,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "gastly",
+   "nome": "Gastly",
+   "regiao": "kanto",
+   "nivel": 20,
+   "especies": [
+    {
+     "pokeId": 92,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "kabuto",
+   "nome": "Kabuto",
+   "regiao": "kanto",
+   "nivel": 20,
+   "especies": [
+    {
+     "pokeId": 140,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "machop",
+   "nome": "Machop",
+   "regiao": "kanto",
+   "nivel": 20,
+   "especies": [
+    {
+     "pokeId": 66,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "meowth",
+   "nome": "Meowth",
+   "regiao": "kanto",
+   "nivel": 20,
+   "especies": [
+    {
+     "pokeId": 52,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "omanyte",
+   "nome": "Omanyte",
+   "regiao": "kanto",
+   "nivel": 20,
+   "especies": [
+    {
+     "pokeId": 138,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "pidgeotto",
+   "nome": "Pidgeotto",
+   "regiao": "kanto",
+   "nivel": 20,
+   "especies": [
+    {
+     "pokeId": 17,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "ponyta",
+   "nome": "Ponyta",
+   "regiao": "kanto",
+   "nivel": 20,
+   "especies": [
+    {
+     "pokeId": 77,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "porygon_sinnoh",
+   "nome": "Porygon",
+   "regiao": "kanto",
+   "nivel": 20,
+   "especies": [
+    {
+     "pokeId": 137,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "psyduck",
+   "nome": "Psyduck",
+   "regiao": "kanto",
+   "nivel": 20,
+   "especies": [
+    {
+     "pokeId": 54,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "sandshrew",
+   "nome": "Sandshrew",
+   "regiao": "kanto",
+   "nivel": 20,
+   "especies": [
+    {
+     "pokeId": 27,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "seel",
+   "nome": "Seel",
+   "regiao": "kanto",
+   "nivel": 20,
+   "especies": [
+    {
+     "pokeId": 86,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "squirtle",
+   "nome": "Squirtle",
+   "regiao": "kanto",
+   "nivel": 20,
+   "especies": [
+    {
+     "pokeId": 7,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "staryu",
+   "nome": "Staryu",
+   "regiao": "kanto",
+   "nivel": 20,
+   "especies": [
+    {
+     "pokeId": 120,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "venonat",
+   "nome": "Venonat",
+   "regiao": "kanto",
+   "nivel": 20,
+   "especies": [
+    {
+     "pokeId": 48,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "vulpix",
+   "nome": "Vulpix",
+   "regiao": "kanto",
+   "nivel": 20,
+   "especies": [
+    {
+     "pokeId": 37,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "beedrill",
+   "nome": "Beedrill",
+   "regiao": "kanto",
+   "nivel": 30,
+   "especies": [
+    {
+     "pokeId": 15,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "butterfree",
+   "nome": "Butterfree",
+   "regiao": "kanto",
+   "nivel": 30,
+   "especies": [
+    {
+     "pokeId": 12,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "dratini",
+   "nome": "Dratini",
+   "regiao": "kanto",
+   "nivel": 30,
+   "especies": [
+    {
+     "pokeId": 147,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "drowzee",
+   "nome": "Drowzee",
+   "regiao": "kanto",
+   "nivel": 30,
+   "especies": [
+    {
+     "pokeId": 96,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "gloom",
+   "nome": "Gloom",
+   "regiao": "kanto",
+   "nivel": 30,
+   "especies": [
+    {
+     "pokeId": 44,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "growlithe",
+   "nome": "Growlithe",
+   "regiao": "kanto",
+   "nivel": 30,
+   "especies": [
+    {
+     "pokeId": 58,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "nidorina",
+   "nome": "Nidorina",
+   "regiao": "kanto",
+   "nivel": 30,
+   "especies": [
+    {
+     "pokeId": 30,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "nidorino",
+   "nome": "Nidorino",
+   "regiao": "kanto",
+   "nivel": 30,
+   "especies": [
+    {
+     "pokeId": 33,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "poliwhirl",
+   "nome": "Poliwhirl",
+   "regiao": "kanto",
+   "nivel": 30,
+   "especies": [
+    {
+     "pokeId": 61,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "primeape",
+   "nome": "Primeape",
+   "regiao": "kanto",
+   "nivel": 30,
+   "especies": [
+    {
+     "pokeId": 57,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "raticate",
+   "nome": "Raticate",
+   "regiao": "kanto",
+   "nivel": 30,
+   "especies": [
+    {
+     "pokeId": 20,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "rhyhorn",
+   "nome": "Rhyhorn",
+   "regiao": "kanto",
+   "nivel": 30,
+   "especies": [
+    {
+     "pokeId": 111,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "weepinbell",
+   "nome": "Weepinbell",
+   "regiao": "kanto",
+   "nivel": 30,
+   "especies": [
+    {
+     "pokeId": 70,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "arbok",
+   "nome": "Arbok",
+   "regiao": "kanto",
+   "nivel": 40,
+   "especies": [
+    {
+     "pokeId": 24,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "charmeleon",
+   "nome": "Charmeleon",
+   "regiao": "kanto",
+   "nivel": 40,
+   "especies": [
+    {
+     "pokeId": 5,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "clefairy",
+   "nome": "Clefairy",
+   "regiao": "kanto",
+   "nivel": 40,
+   "especies": [
+    {
+     "pokeId": 35,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "dugtrio",
+   "nome": "Dugtrio",
+   "regiao": "kanto",
+   "nivel": 40,
+   "especies": [
+    {
+     "pokeId": 51,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "eevee",
+   "nome": "Eevee",
+   "regiao": "kanto",
+   "nivel": 40,
+   "especies": [
+    {
+     "pokeId": 133,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "electrode",
+   "nome": "Electrode",
+   "regiao": "kanto",
+   "nivel": 40,
+   "especies": [
+    {
+     "pokeId": 101,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "golbat",
+   "nome": "Golbat",
+   "regiao": "kanto",
+   "nivel": 40,
+   "especies": [
+    {
+     "pokeId": 42,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "graveler",
+   "nome": "Graveler",
+   "regiao": "kanto",
+   "nivel": 40,
+   "especies": [
+    {
+     "pokeId": 75,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "ivysaur",
+   "nome": "Ivysaur",
+   "regiao": "kanto",
+   "nivel": 40,
+   "especies": [
+    {
+     "pokeId": 2,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "jigglypuff",
+   "nome": "Jigglypuff",
+   "regiao": "kanto",
+   "nivel": 40,
+   "especies": [
+    {
+     "pokeId": 39,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "machoke",
+   "nome": "Machoke",
+   "regiao": "kanto",
+   "nivel": 40,
+   "especies": [
+    {
+     "pokeId": 67,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "wartortle",
+   "nome": "Wartortle",
+   "regiao": "kanto",
+   "nivel": 40,
+   "especies": [
+    {
+     "pokeId": 8,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "ditto_sinnoh",
+   "nome": "Ditto",
+   "regiao": "kanto",
+   "nivel": 50,
+   "especies": [
+    {
+     "pokeId": 132,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "farfetch_d",
+   "nome": "Farfetch'D",
+   "regiao": "kanto",
+   "nivel": 50,
+   "especies": [
+    {
+     "pokeId": 83,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "fearow",
+   "nome": "Fearow",
+   "regiao": "kanto",
+   "nivel": 50,
+   "especies": [
+    {
+     "pokeId": 22,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "haunter",
+   "nome": "Haunter",
+   "regiao": "kanto",
+   "nivel": 50,
+   "especies": [
+    {
+     "pokeId": 93,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "kadabra",
+   "nome": "Kadabra",
+   "regiao": "kanto",
+   "nivel": 50,
+   "especies": [
+    {
+     "pokeId": 64,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "marowak",
+   "nome": "Marowak",
+   "regiao": "kanto",
+   "nivel": 50,
+   "especies": [
+    {
+     "pokeId": 105,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "parasect",
+   "nome": "Parasect",
+   "regiao": "kanto",
+   "nivel": 50,
+   "especies": [
+    {
+     "pokeId": 47,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "persian",
+   "nome": "Persian",
+   "regiao": "kanto",
+   "nivel": 50,
+   "especies": [
+    {
+     "pokeId": 53,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "seadra",
+   "nome": "Seadra",
+   "regiao": "kanto",
+   "nivel": 50,
+   "especies": [
+    {
+     "pokeId": 117,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "seaking",
+   "nome": "Seaking",
+   "regiao": "kanto",
+   "nivel": 50,
+   "especies": [
+    {
+     "pokeId": 119,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "tangela",
+   "nome": "Tangela",
+   "regiao": "kanto",
+   "nivel": 50,
+   "especies": [
+    {
+     "pokeId": 114,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "chansey",
+   "nome": "Chansey",
+   "regiao": "kanto",
+   "nivel": 60,
+   "especies": [
+    {
+     "pokeId": 113,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "cloyster",
+   "nome": "Cloyster",
+   "regiao": "kanto",
+   "nivel": 60,
+   "especies": [
+    {
+     "pokeId": 91,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "dewgong",
+   "nome": "Dewgong",
+   "regiao": "kanto",
+   "nivel": 60,
+   "especies": [
+    {
+     "pokeId": 87,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "dodrio",
+   "nome": "Dodrio",
+   "regiao": "kanto",
+   "nivel": 60,
+   "especies": [
+    {
+     "pokeId": 85,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hitmonchan",
+   "nome": "Hitmonchan",
+   "regiao": "kanto",
+   "nivel": 60,
+   "especies": [
+    {
+     "pokeId": 107,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hitmonlee",
+   "nome": "Hitmonlee",
+   "regiao": "kanto",
+   "nivel": 60,
+   "especies": [
+    {
+     "pokeId": 106,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hypno",
+   "nome": "Hypno",
+   "regiao": "kanto",
+   "nivel": 60,
+   "especies": [
+    {
+     "pokeId": 97,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "kingler",
+   "nome": "Kingler",
+   "regiao": "kanto",
+   "nivel": 60,
+   "especies": [
+    {
+     "pokeId": 99,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "lickitung",
+   "nome": "Lickitung",
+   "regiao": "kanto",
+   "nivel": 60,
+   "especies": [
+    {
+     "pokeId": 108,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "onix",
+   "nome": "Onix",
+   "regiao": "kanto",
+   "nivel": 60,
+   "especies": [
+    {
+     "pokeId": 95,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "pikachu",
+   "nome": "Pikachu",
+   "regiao": "kanto",
+   "nivel": 60,
+   "especies": [
+    {
+     "pokeId": 25,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "sandslash",
+   "nome": "Sandslash",
+   "regiao": "kanto",
+   "nivel": 60,
+   "especies": [
+    {
+     "pokeId": 28,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "slowbro",
+   "nome": "Slowbro",
+   "regiao": "kanto",
+   "nivel": 60,
+   "especies": [
+    {
+     "pokeId": 80,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "tauros",
+   "nome": "Tauros",
+   "regiao": "kanto",
+   "nivel": 60,
+   "especies": [
+    {
+     "pokeId": 128,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "venomoth",
+   "nome": "Venomoth",
+   "regiao": "kanto",
+   "nivel": 60,
+   "especies": [
+    {
+     "pokeId": 49,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "victreebel",
+   "nome": "Victreebel",
+   "regiao": "kanto",
+   "nivel": 60,
+   "especies": [
+    {
+     "pokeId": 71,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "weezing",
+   "nome": "Weezing",
+   "regiao": "kanto",
+   "nivel": 60,
+   "especies": [
+    {
+     "pokeId": 110,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "rapidash",
+   "nome": "Rapidash",
+   "regiao": "kanto",
+   "nivel": 70,
+   "especies": [
+    {
+     "pokeId": 78,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "vileplume",
+   "nome": "Vileplume",
+   "regiao": "kanto",
+   "nivel": 70,
+   "especies": [
+    {
+     "pokeId": 45,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "blastoise",
+   "nome": "Blastoise",
+   "regiao": "kanto",
+   "nivel": 80,
+   "especies": [
+    {
+     "pokeId": 9,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "charizard",
+   "nome": "Charizard",
+   "regiao": "kanto",
+   "nivel": 80,
+   "especies": [
+    {
+     "pokeId": 6,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "clefable",
+   "nome": "Clefable",
+   "regiao": "kanto",
+   "nivel": 80,
+   "especies": [
+    {
+     "pokeId": 36,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "dragonair",
+   "nome": "Dragonair",
+   "regiao": "kanto",
+   "nivel": 80,
+   "especies": [
+    {
+     "pokeId": 148,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "flareon",
+   "nome": "Flareon",
+   "regiao": "kanto",
+   "nivel": 80,
+   "especies": [
+    {
+     "pokeId": 136,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "golduck",
+   "nome": "Golduck",
+   "regiao": "kanto",
+   "nivel": 80,
+   "especies": [
+    {
+     "pokeId": 55,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "golem",
+   "nome": "Golem",
+   "regiao": "kanto",
+   "nivel": 80,
+   "especies": [
+    {
+     "pokeId": 76,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "jolteon",
+   "nome": "Jolteon",
+   "regiao": "kanto",
+   "nivel": 80,
+   "especies": [
+    {
+     "pokeId": 135,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "kabutops",
+   "nome": "Kabutops",
+   "regiao": "kanto",
+   "nivel": 80,
+   "especies": [
+    {
+     "pokeId": 141,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "kangaskhan",
+   "nome": "Kangaskhan",
+   "regiao": "kanto",
+   "nivel": 80,
+   "especies": [
+    {
+     "pokeId": 115,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "machamp",
+   "nome": "Machamp",
+   "regiao": "kanto",
+   "nivel": 80,
+   "especies": [
+    {
+     "pokeId": 68,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "magneton",
+   "nome": "Magneton",
+   "regiao": "kanto",
+   "nivel": 80,
+   "especies": [
+    {
+     "pokeId": 82,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "mr_mime",
+   "nome": "Mr. Mime",
+   "regiao": "kanto",
+   "nivel": 80,
+   "especies": [
+    {
+     "pokeId": 122,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "muk",
+   "nome": "Muk",
+   "regiao": "kanto",
+   "nivel": 80,
+   "especies": [
+    {
+     "pokeId": 89,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "nidoking",
+   "nome": "Nidoking",
+   "regiao": "kanto",
+   "nivel": 80,
+   "especies": [
+    {
+     "pokeId": 34,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "nidoqueen",
+   "nome": "Nidoqueen",
+   "regiao": "kanto",
+   "nivel": 80,
+   "especies": [
+    {
+     "pokeId": 31,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "omastar",
+   "nome": "Omastar",
+   "regiao": "kanto",
+   "nivel": 80,
+   "especies": [
+    {
+     "pokeId": 139,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "pidgeot",
+   "nome": "Pidgeot",
+   "regiao": "kanto",
+   "nivel": 80,
+   "especies": [
+    {
+     "pokeId": 18,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "poliwrath",
+   "nome": "Poliwrath",
+   "regiao": "kanto",
+   "nivel": 80,
+   "especies": [
+    {
+     "pokeId": 62,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "raichu",
+   "nome": "Raichu",
+   "regiao": "kanto",
+   "nivel": 80,
+   "especies": [
+    {
+     "pokeId": 26,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "starmie",
+   "nome": "Starmie",
+   "regiao": "kanto",
+   "nivel": 80,
+   "especies": [
+    {
+     "pokeId": 121,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "tentacruel",
+   "nome": "Tentacruel",
+   "regiao": "kanto",
+   "nivel": 80,
+   "especies": [
+    {
+     "pokeId": 73,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "vaporeon",
+   "nome": "Vaporeon",
+   "regiao": "kanto",
+   "nivel": 80,
+   "especies": [
+    {
+     "pokeId": 134,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "venusaur",
+   "nome": "Venusaur",
+   "regiao": "kanto",
+   "nivel": 80,
+   "especies": [
+    {
+     "pokeId": 3,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "wigglytuff",
+   "nome": "Wigglytuff",
+   "regiao": "kanto",
+   "nivel": 80,
+   "especies": [
+    {
+     "pokeId": 40,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "aerodactyl",
+   "nome": "Aerodactyl",
+   "regiao": "kanto",
+   "nivel": 100,
+   "especies": [
+    {
+     "pokeId": 142,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "alakazam",
+   "nome": "Alakazam",
+   "regiao": "kanto",
+   "nivel": 100,
+   "especies": [
+    {
+     "pokeId": 65,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "arcanine",
+   "nome": "Arcanine",
+   "regiao": "kanto",
+   "nivel": 100,
+   "especies": [
+    {
+     "pokeId": 59,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "dragonite",
+   "nome": "Dragonite",
+   "regiao": "kanto",
+   "nivel": 100,
+   "especies": [
+    {
+     "pokeId": 149,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "electabuzz",
+   "nome": "Electabuzz",
+   "regiao": "kanto",
+   "nivel": 100,
+   "especies": [
+    {
+     "pokeId": 125,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "exeggutor",
+   "nome": "Exeggutor",
+   "regiao": "kanto",
+   "nivel": 100,
+   "especies": [
+    {
+     "pokeId": 103,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "gengar",
+   "nome": "Gengar",
+   "regiao": "kanto",
+   "nivel": 100,
+   "especies": [
+    {
+     "pokeId": 94,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "gyarados",
+   "nome": "Gyarados",
+   "regiao": "kanto",
+   "nivel": 100,
+   "especies": [
+    {
+     "pokeId": 130,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "jynx",
+   "nome": "Jynx",
+   "regiao": "kanto",
+   "nivel": 100,
+   "especies": [
+    {
+     "pokeId": 124,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "lapras",
+   "nome": "Lapras",
+   "regiao": "kanto",
+   "nivel": 100,
+   "especies": [
+    {
+     "pokeId": 131,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "magmar",
+   "nome": "Magmar",
+   "regiao": "kanto",
+   "nivel": 100,
+   "especies": [
+    {
+     "pokeId": 126,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "ninetales",
+   "nome": "Ninetales",
+   "regiao": "kanto",
+   "nivel": 100,
+   "especies": [
+    {
+     "pokeId": 38,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "pinsir",
+   "nome": "Pinsir",
+   "regiao": "kanto",
+   "nivel": 100,
+   "especies": [
+    {
+     "pokeId": 127,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "rhydon",
+   "nome": "Rhydon",
+   "regiao": "kanto",
+   "nivel": 100,
+   "especies": [
+    {
+     "pokeId": 112,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "scyther",
+   "nome": "Scyther",
+   "regiao": "kanto",
+   "nivel": 100,
+   "especies": [
+    {
+     "pokeId": 123,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "snorlax",
+   "nome": "Snorlax",
+   "regiao": "kanto",
+   "nivel": 100,
+   "especies": [
+    {
+     "pokeId": 143,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "ancient_dragonair",
+   "nome": "Ancient Dragonair",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2011,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "ancient_dragonite",
+   "nome": "Ancient Dragonite",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2051,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "ancient_granbull",
+   "nome": "Ancient Granbull",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2043,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "ancient_hypno",
+   "nome": "Ancient Hypno",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2038,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "ancient_marowak",
+   "nome": "Ancient Marowak",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2047,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "ancient_meganium",
+   "nome": "Ancient Meganium",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2003,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "ancient_pinsir",
+   "nome": "Ancient Pinsir",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2041,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "ancient_pupitar",
+   "nome": "Ancient Pupitar",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2033,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "ancient_xatu",
+   "nome": "Ancient Xatu",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2036,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "banshee_misdreavus",
+   "nome": "Banshee Misdreavus",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2027,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "banshee_mismagius",
+   "nome": "Banshee Mismagius",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2056,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "brave_aerodactyl",
+   "nome": "Brave Aerodactyl",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2049,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "brave_alakazam",
+   "nome": "Brave Alakazam",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2037,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "brave_arcanine",
+   "nome": "Brave Arcanine",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2031,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "brave_blastoise",
+   "nome": "Brave Blastoise",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2001,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "brave_charizard",
+   "nome": "Brave Charizard",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2021,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "brave_clefable",
+   "nome": "Brave Clefable",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2042,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "brave_mantine",
+   "nome": "Brave Mantine",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2040,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "brave_nidoking",
+   "nome": "Brave Nidoking",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2023,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "brave_nidoqueen",
+   "nome": "Brave Nidoqueen",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2024,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "brave_noctowl",
+   "nome": "Brave Noctowl",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2045,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "brave_steelix",
+   "nome": "Brave Steelix",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2034,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "brave_tyranitar",
+   "nome": "Brave Tyranitar",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2048,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "brave_venusaur",
+   "nome": "Brave Venusaur",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2004,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "brute_rhydon",
+   "nome": "Brute Rhydon",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2020,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "charged_raichu",
+   "nome": "Charged Raichu",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2008,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "dark_crobat",
+   "nome": "Dark Crobat",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2025,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "enigmatic_girafarig",
+   "nome": "Enigmatic Girafarig",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2007,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "enraged_typhlosion",
+   "nome": "Enraged Typhlosion",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2022,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "evil_cloyster",
+   "nome": "Evil Cloyster",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2012,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "freezing_aurorus",
+   "nome": "Freezing Aurorus",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2057,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "freezing_dewgong",
+   "nome": "Freezing Dewgong",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2013,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "furious_ampharos",
+   "nome": "Furious Ampharos",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2009,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "furious_gyarados",
+   "nome": "Furious Gyarados",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2039,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "furious_magmar",
+   "nome": "Furious Magmar",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2032,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "furious_pidgeot",
+   "nome": "Furious Pidgeot",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2046,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "furious_sandslash",
+   "nome": "Furious Sandslash",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2018,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "furious_scizor",
+   "nome": "Furious Scizor",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2050,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "furious_scyther",
+   "nome": "Furious Scyther",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2006,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "furious_skarmory",
+   "nome": "Furious Skarmory",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2044,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "furious_whimsicott",
+   "nome": "Furious Whimsicott",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2052,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "furious_wigglytuff",
+   "nome": "Furious Wigglytuff",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2035,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hard_golem",
+   "nome": "Hard Golem",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2019,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "heavy_piloswine",
+   "nome": "Heavy Piloswine",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2015,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "magma_magcargo",
+   "nome": "Magma Magcargo",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2053,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "magnetic_electabuzz",
+   "nome": "Magnetic Electabuzz",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2010,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "milch_miltank",
+   "nome": "Milch-Miltank",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2016,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "psy_exeggutor",
+   "nome": "Psy Exeggutor",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2055,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "psy_jynx",
+   "nome": "Psy Jynx",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2014,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "roll_donphan",
+   "nome": "Roll Donphan",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2017,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "taekwondo_hitmonchan",
+   "nome": "Taekwondo Hitmonchan",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2028,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "taekwondo_hitmonlee",
+   "nome": "Taekwondo Hitmonlee",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2029,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "taekwondo_hitmontop",
+   "nome": "Taekwondo Hitmontop",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2030,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "toxic_toxicroak",
+   "nome": "Toxic Toxicroak",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2054,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "tribal_feraligatr",
+   "nome": "Tribal Feraligatr",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2002,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "trickmaster_gengar",
+   "nome": "Trickmaster Gengar",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2026,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "war_heracross",
+   "nome": "War Heracross",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2005,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "war_scrafty",
+   "nome": "War Scrafty",
+   "regiao": "outland",
+   "nivel": 150,
+   "especies": [
+    {
+     "pokeId": 2058,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hoppip",
+   "nome": "Hoppip",
+   "regiao": "johto",
+   "nivel": 200,
+   "especies": [
+    {
+     "pokeId": 187,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "sunkern",
+   "nome": "Sunkern",
+   "regiao": "johto",
+   "nivel": 200,
+   "especies": [
+    {
+     "pokeId": 191,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "togepi",
+   "nome": "Togepi",
+   "regiao": "johto",
+   "nivel": 200,
+   "especies": [
+    {
+     "pokeId": 175,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "chinchou",
+   "nome": "Chinchou",
+   "regiao": "johto",
+   "nivel": 230,
+   "especies": [
+    {
+     "pokeId": 170,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "ledyba",
+   "nome": "Ledyba",
+   "regiao": "johto",
+   "nivel": 230,
+   "especies": [
+    {
+     "pokeId": 165,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "pineco",
+   "nome": "Pineco",
+   "regiao": "johto",
+   "nivel": 230,
+   "especies": [
+    {
+     "pokeId": 204,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "remoraid",
+   "nome": "Remoraid",
+   "regiao": "johto",
+   "nivel": 230,
+   "especies": [
+    {
+     "pokeId": 223,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "sentret",
+   "nome": "Sentret",
+   "regiao": "johto",
+   "nivel": 230,
+   "especies": [
+    {
+     "pokeId": 161,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "slugma",
+   "nome": "Slugma",
+   "regiao": "johto",
+   "nivel": 230,
+   "especies": [
+    {
+     "pokeId": 218,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "spinarak",
+   "nome": "Spinarak",
+   "regiao": "johto",
+   "nivel": 230,
+   "especies": [
+    {
+     "pokeId": 167,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "swinub",
+   "nome": "Swinub",
+   "regiao": "johto",
+   "nivel": 230,
+   "especies": [
+    {
+     "pokeId": 220,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "chikorita",
+   "nome": "Chikorita",
+   "regiao": "johto",
+   "nivel": 260,
+   "especies": [
+    {
+     "pokeId": 152,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "cleffa",
+   "nome": "Cleffa",
+   "regiao": "johto",
+   "nivel": 260,
+   "especies": [
+    {
+     "pokeId": 173,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "cyndaquil",
+   "nome": "Cyndaquil",
+   "regiao": "johto",
+   "nivel": 260,
+   "especies": [
+    {
+     "pokeId": 155,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hoothoot",
+   "nome": "Hoothoot",
+   "regiao": "johto",
+   "nivel": 260,
+   "especies": [
+    {
+     "pokeId": 163,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "houndour",
+   "nome": "Houndour",
+   "regiao": "johto",
+   "nivel": 260,
+   "especies": [
+    {
+     "pokeId": 228,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "igglybuff",
+   "nome": "Igglybuff",
+   "regiao": "johto",
+   "nivel": 260,
+   "especies": [
+    {
+     "pokeId": 174,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "mareep",
+   "nome": "Mareep",
+   "regiao": "johto",
+   "nivel": 260,
+   "especies": [
+    {
+     "pokeId": 179,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "marill",
+   "nome": "Marill",
+   "regiao": "johto",
+   "nivel": 260,
+   "especies": [
+    {
+     "pokeId": 183,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "phanpy",
+   "nome": "Phanpy",
+   "regiao": "johto",
+   "nivel": 260,
+   "especies": [
+    {
+     "pokeId": 231,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "pichu",
+   "nome": "Pichu",
+   "regiao": "johto",
+   "nivel": 260,
+   "especies": [
+    {
+     "pokeId": 172,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "totodile",
+   "nome": "Totodile",
+   "regiao": "johto",
+   "nivel": 260,
+   "especies": [
+    {
+     "pokeId": 158,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "wooper",
+   "nome": "Wooper",
+   "regiao": "johto",
+   "nivel": 260,
+   "especies": [
+    {
+     "pokeId": 194,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "dunsparce",
+   "nome": "Dunsparce",
+   "regiao": "johto",
+   "nivel": 290,
+   "especies": [
+    {
+     "pokeId": 206,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "elekid",
+   "nome": "Elekid",
+   "regiao": "johto",
+   "nivel": 290,
+   "especies": [
+    {
+     "pokeId": 239,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "larvitar",
+   "nome": "Larvitar",
+   "regiao": "johto",
+   "nivel": 290,
+   "especies": [
+    {
+     "pokeId": 246,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "magby",
+   "nome": "Magby",
+   "regiao": "johto",
+   "nivel": 290,
+   "especies": [
+    {
+     "pokeId": 240,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "natu",
+   "nome": "Natu",
+   "regiao": "johto",
+   "nivel": 290,
+   "especies": [
+    {
+     "pokeId": 177,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "skiploom",
+   "nome": "Skiploom",
+   "regiao": "johto",
+   "nivel": 290,
+   "especies": [
+    {
+     "pokeId": 188,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "smeargle",
+   "nome": "Smeargle",
+   "regiao": "johto",
+   "nivel": 290,
+   "especies": [
+    {
+     "pokeId": 235,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "smoochum",
+   "nome": "Smoochum",
+   "regiao": "johto",
+   "nivel": 290,
+   "especies": [
+    {
+     "pokeId": 238,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "snubbull",
+   "nome": "Snubbull",
+   "regiao": "johto",
+   "nivel": 290,
+   "especies": [
+    {
+     "pokeId": 209,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "sunflora",
+   "nome": "Sunflora",
+   "regiao": "johto",
+   "nivel": 290,
+   "especies": [
+    {
+     "pokeId": 192,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "teddiursa",
+   "nome": "Teddiursa",
+   "regiao": "johto",
+   "nivel": 290,
+   "especies": [
+    {
+     "pokeId": 216,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "tyrogue",
+   "nome": "Tyrogue",
+   "regiao": "johto",
+   "nivel": 290,
+   "especies": [
+    {
+     "pokeId": 236,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "aipom",
+   "nome": "Aipom",
+   "regiao": "johto",
+   "nivel": 320,
+   "especies": [
+    {
+     "pokeId": 190,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "ariados",
+   "nome": "Ariados",
+   "regiao": "johto",
+   "nivel": 320,
+   "especies": [
+    {
+     "pokeId": 168,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "bayleef",
+   "nome": "Bayleef",
+   "regiao": "johto",
+   "nivel": 320,
+   "especies": [
+    {
+     "pokeId": 153,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "croconaw",
+   "nome": "Croconaw",
+   "regiao": "johto",
+   "nivel": 320,
+   "especies": [
+    {
+     "pokeId": 159,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "delibird",
+   "nome": "Delibird",
+   "regiao": "johto",
+   "nivel": 320,
+   "especies": [
+    {
+     "pokeId": 225,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "flaaffy",
+   "nome": "Flaaffy",
+   "regiao": "johto",
+   "nivel": 320,
+   "especies": [
+    {
+     "pokeId": 180,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "furret",
+   "nome": "Furret",
+   "regiao": "johto",
+   "nivel": 320,
+   "especies": [
+    {
+     "pokeId": 162,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "gligar",
+   "nome": "Gligar",
+   "regiao": "johto",
+   "nivel": 320,
+   "especies": [
+    {
+     "pokeId": 207,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "ledian",
+   "nome": "Ledian",
+   "regiao": "johto",
+   "nivel": 320,
+   "especies": [
+    {
+     "pokeId": 166,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "porygon2_sinnoh",
+   "nome": "Porygon2",
+   "regiao": "johto",
+   "nivel": 320,
+   "especies": [
+    {
+     "pokeId": 233,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "quilava",
+   "nome": "Quilava",
+   "regiao": "johto",
+   "nivel": 320,
+   "especies": [
+    {
+     "pokeId": 156,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "shuckle",
+   "nome": "Shuckle",
+   "regiao": "johto",
+   "nivel": 320,
+   "especies": [
+    {
+     "pokeId": 213,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "bellossom",
+   "nome": "Bellossom",
+   "regiao": "johto",
+   "nivel": 350,
+   "especies": [
+    {
+     "pokeId": 182,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "corsola",
+   "nome": "Corsola",
+   "regiao": "johto",
+   "nivel": 350,
+   "especies": [
+    {
+     "pokeId": 222,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "jumpluff",
+   "nome": "Jumpluff",
+   "regiao": "johto",
+   "nivel": 350,
+   "especies": [
+    {
+     "pokeId": 189,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "murkrow_sinnoh",
+   "nome": "Murkrow",
+   "regiao": "johto",
+   "nivel": 350,
+   "especies": [
+    {
+     "pokeId": 198,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "qwilfish",
+   "nome": "Qwilfish",
+   "regiao": "johto",
+   "nivel": 350,
+   "especies": [
+    {
+     "pokeId": 211,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "sneasel",
+   "nome": "Sneasel",
+   "regiao": "johto",
+   "nivel": 350,
+   "especies": [
+    {
+     "pokeId": 215,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "stantler",
+   "nome": "Stantler",
+   "regiao": "johto",
+   "nivel": 350,
+   "especies": [
+    {
+     "pokeId": 234,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "yanma",
+   "nome": "Yanma",
+   "regiao": "johto",
+   "nivel": 350,
+   "especies": [
+    {
+     "pokeId": 193,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "azumarill",
+   "nome": "Azumarill",
+   "regiao": "johto",
+   "nivel": 380,
+   "especies": [
+    {
+     "pokeId": 184,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hitmontop",
+   "nome": "Hitmontop",
+   "regiao": "johto",
+   "nivel": 380,
+   "especies": [
+    {
+     "pokeId": 237,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "noctowl",
+   "nome": "Noctowl",
+   "regiao": "johto",
+   "nivel": 380,
+   "especies": [
+    {
+     "pokeId": 164,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "pupitar",
+   "nome": "Pupitar",
+   "regiao": "johto",
+   "nivel": 380,
+   "especies": [
+    {
+     "pokeId": 247,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "quagsire",
+   "nome": "Quagsire",
+   "regiao": "johto",
+   "nivel": 380,
+   "especies": [
+    {
+     "pokeId": 195,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "slowking_sinnoh",
+   "nome": "Slowking",
+   "regiao": "johto",
+   "nivel": 380,
+   "especies": [
+    {
+     "pokeId": 199,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "sudowoodo_sinnoh",
+   "nome": "Sudowoodo",
+   "regiao": "johto",
+   "nivel": 380,
+   "especies": [
+    {
+     "pokeId": 185,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "octillery",
+   "nome": "Octillery",
+   "regiao": "johto",
+   "nivel": 410,
+   "especies": [
+    {
+     "pokeId": 224,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "politoed",
+   "nome": "Politoed",
+   "regiao": "johto",
+   "nivel": 410,
+   "especies": [
+    {
+     "pokeId": 186,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "ampharos",
+   "nome": "Ampharos",
+   "regiao": "johto",
+   "nivel": 440,
+   "especies": [
+    {
+     "pokeId": 181,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "blissey_sinnoh",
+   "nome": "Blissey",
+   "regiao": "johto",
+   "nivel": 440,
+   "especies": [
+    {
+     "pokeId": 242,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "crobat",
+   "nome": "Crobat",
+   "regiao": "johto",
+   "nivel": 440,
+   "especies": [
+    {
+     "pokeId": 169,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "donphan",
+   "nome": "Donphan",
+   "regiao": "johto",
+   "nivel": 440,
+   "especies": [
+    {
+     "pokeId": 232,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "espeon",
+   "nome": "Espeon",
+   "regiao": "johto",
+   "nivel": 440,
+   "especies": [
+    {
+     "pokeId": 196,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "feraligatr",
+   "nome": "Feraligatr",
+   "regiao": "johto",
+   "nivel": 440,
+   "especies": [
+    {
+     "pokeId": 160,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "forretress",
+   "nome": "Forretress",
+   "regiao": "johto",
+   "nivel": 440,
+   "especies": [
+    {
+     "pokeId": 205,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "girafarig",
+   "nome": "Girafarig",
+   "regiao": "johto",
+   "nivel": 440,
+   "especies": [
+    {
+     "pokeId": 203,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "granbull",
+   "nome": "Granbull",
+   "regiao": "johto",
+   "nivel": 440,
+   "especies": [
+    {
+     "pokeId": 210,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "houndoom",
+   "nome": "Houndoom",
+   "regiao": "johto",
+   "nivel": 440,
+   "especies": [
+    {
+     "pokeId": 229,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "lanturn",
+   "nome": "Lanturn",
+   "regiao": "johto",
+   "nivel": 440,
+   "especies": [
+    {
+     "pokeId": 171,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "meganium",
+   "nome": "Meganium",
+   "regiao": "johto",
+   "nivel": 440,
+   "especies": [
+    {
+     "pokeId": 154,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "miltank",
+   "nome": "Miltank",
+   "regiao": "johto",
+   "nivel": 440,
+   "especies": [
+    {
+     "pokeId": 241,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "piloswine",
+   "nome": "Piloswine",
+   "regiao": "johto",
+   "nivel": 440,
+   "especies": [
+    {
+     "pokeId": 221,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "togetic",
+   "nome": "Togetic",
+   "regiao": "johto",
+   "nivel": 440,
+   "especies": [
+    {
+     "pokeId": 176,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "typhlosion",
+   "nome": "Typhlosion",
+   "regiao": "johto",
+   "nivel": 440,
+   "especies": [
+    {
+     "pokeId": 157,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "umbreon",
+   "nome": "Umbreon",
+   "regiao": "johto",
+   "nivel": 440,
+   "especies": [
+    {
+     "pokeId": 197,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "xatu",
+   "nome": "Xatu",
+   "regiao": "johto",
+   "nivel": 440,
+   "especies": [
+    {
+     "pokeId": 178,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "heracross",
+   "nome": "Heracross",
+   "regiao": "johto",
+   "nivel": 470,
+   "especies": [
+    {
+     "pokeId": 214,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "kingdra",
+   "nome": "Kingdra",
+   "regiao": "johto",
+   "nivel": 470,
+   "especies": [
+    {
+     "pokeId": 230,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "magcargo",
+   "nome": "Magcargo",
+   "regiao": "johto",
+   "nivel": 470,
+   "especies": [
+    {
+     "pokeId": 219,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "mantine",
+   "nome": "Mantine",
+   "regiao": "johto",
+   "nivel": 470,
+   "especies": [
+    {
+     "pokeId": 226,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "misdreavus",
+   "nome": "Misdreavus",
+   "regiao": "johto",
+   "nivel": 470,
+   "especies": [
+    {
+     "pokeId": 200,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "scizor",
+   "nome": "Scizor",
+   "regiao": "johto",
+   "nivel": 470,
+   "especies": [
+    {
+     "pokeId": 212,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "skarmory",
+   "nome": "Skarmory",
+   "regiao": "johto",
+   "nivel": 470,
+   "especies": [
+    {
+     "pokeId": 227,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "steelix",
+   "nome": "Steelix",
+   "regiao": "johto",
+   "nivel": 470,
+   "especies": [
+    {
+     "pokeId": 208,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "tyranitar",
+   "nome": "Tyranitar",
+   "regiao": "johto",
+   "nivel": 470,
+   "especies": [
+    {
+     "pokeId": 248,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "ursaring",
+   "nome": "Ursaring",
+   "regiao": "johto",
+   "nivel": 470,
+   "especies": [
+    {
+     "pokeId": 217,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "wobbuffet",
+   "nome": "Wobbuffet",
+   "regiao": "johto",
+   "nivel": 470,
+   "especies": [
+    {
+     "pokeId": 202,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "anorith_hoenn",
+   "nome": "Anorith",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13347,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "aron_hoenn",
+   "nome": "Aron",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13304,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "azurill_hoenn",
+   "nome": "Azurill",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13298,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "bagon_hoenn",
+   "nome": "Bagon",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13371,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "baltoy_hoenn",
+   "nome": "Baltoy",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13343,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "barboach_hoenn",
+   "nome": "Barboach",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13339,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "beldum_hoenn",
+   "nome": "Beldum",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13374,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "cacnea_hoenn",
+   "nome": "Cacnea",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13331,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "carvanha_hoenn",
+   "nome": "Carvanha",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13318,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "cascoon_hoenn",
+   "nome": "Cascoon",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13268,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "clamperl_hoenn",
+   "nome": "Clamperl",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13366,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "corphish_hoenn",
+   "nome": "Corphish",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13341,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "duskull_hoenn",
+   "nome": "Duskull",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13355,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "electrike_hoenn",
+   "nome": "Electrike",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13309,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "feebas_hoenn",
+   "nome": "Feebas",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 349,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "gulpin_hoenn",
+   "nome": "Gulpin",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13316,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "lileep_hoenn",
+   "nome": "Lileep",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13345,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "lotad_hoenn",
+   "nome": "Lotad",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13270,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "luvdisc_hoenn",
+   "nome": "Luvdisc",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13370,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "meditite_hoenn",
+   "nome": "Meditite",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13307,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "mudkip_hoenn",
+   "nome": "Mudkip",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13258,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "nincada_hoenn",
+   "nome": "Nincada",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13290,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "nosepass_hoenn",
+   "nome": "Nosepass",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13299,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "numel_hoenn",
+   "nome": "Numel",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13322,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "poochyena_hoenn",
+   "nome": "Poochyena",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13261,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "ralts_hoenn",
+   "nome": "Ralts",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13280,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "seedot_hoenn",
+   "nome": "Seedot",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13273,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "shedinja_hoenn",
+   "nome": "Shedinja",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13292,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "shroomish_hoenn",
+   "nome": "Shroomish",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13285,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "shuppet_hoenn",
+   "nome": "Shuppet",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13353,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "slakoth_hoenn",
+   "nome": "Slakoth",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13287,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "snorunt_hoenn",
+   "nome": "Snorunt",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13361,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "spheal_hoenn",
+   "nome": "Spheal",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13363,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "spinda_hoenn",
+   "nome": "Spinda",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13327,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "spoink_hoenn",
+   "nome": "Spoink",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13325,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "surskit_hoenn",
+   "nome": "Surskit",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13283,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "swablu_hoenn",
+   "nome": "Swablu",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13333,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "taillow_hoenn",
+   "nome": "Taillow",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13276,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "torchic_hoenn",
+   "nome": "Torchic",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13255,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "trapinch_hoenn",
+   "nome": "Trapinch",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13328,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "treecko_hoenn",
+   "nome": "Treecko",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13252,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "wailmer_hoenn",
+   "nome": "Wailmer",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13320,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "whismur_hoenn",
+   "nome": "Whismur",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13293,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "wingull_hoenn",
+   "nome": "Wingull",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13278,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "wurmple_hoenn",
+   "nome": "Wurmple",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13265,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "wynaut_hoenn",
+   "nome": "Wynaut",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13360,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "zigzagoon_hoenn",
+   "nome": "Zigzagoon",
+   "regiao": "hoenn",
+   "nivel": 500,
+   "especies": [
+    {
+     "pokeId": 13263,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "castform_fire_hoenn",
+   "nome": "Castform Fire",
+   "regiao": "hoenn",
+   "nivel": 550,
+   "especies": [
+    {
+     "pokeId": 13351,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "gorebyss_hoenn",
+   "nome": "Gorebyss",
+   "regiao": "hoenn",
+   "nivel": 550,
+   "especies": [
+    {
+     "pokeId": 13368,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "illumise_hoenn",
+   "nome": "Illumise",
+   "regiao": "hoenn",
+   "nivel": 550,
+   "especies": [
+    {
+     "pokeId": 13314,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "kecleon_hoenn",
+   "nome": "Kecleon",
+   "regiao": "hoenn",
+   "nivel": 550,
+   "especies": [
+    {
+     "pokeId": 13352,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "lunatone_hoenn",
+   "nome": "Lunatone",
+   "regiao": "hoenn",
+   "nivel": 550,
+   "especies": [
+    {
+     "pokeId": 13337,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "makuhita_hoenn",
+   "nome": "Makuhita",
+   "regiao": "hoenn",
+   "nivel": 550,
+   "especies": [
+    {
+     "pokeId": 13296,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "minun_hoenn",
+   "nome": "Minun",
+   "regiao": "hoenn",
+   "nivel": 550,
+   "especies": [
+    {
+     "pokeId": 13312,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "plusle_hoenn",
+   "nome": "Plusle",
+   "regiao": "hoenn",
+   "nivel": 550,
+   "especies": [
+    {
+     "pokeId": 13311,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "relicanth_hoenn",
+   "nome": "Relicanth",
+   "regiao": "hoenn",
+   "nivel": 550,
+   "especies": [
+    {
+     "pokeId": 13369,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "solrock_hoenn",
+   "nome": "Solrock",
+   "regiao": "hoenn",
+   "nivel": 550,
+   "especies": [
+    {
+     "pokeId": 13338,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "volbeat_hoenn",
+   "nome": "Volbeat",
+   "regiao": "hoenn",
+   "nivel": 550,
+   "especies": [
+    {
+     "pokeId": 13313,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "absol_hoenn",
+   "nome": "Absol",
+   "regiao": "hoenn",
+   "nivel": 600,
+   "especies": [
+    {
+     "pokeId": 13359,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "mawile_hoenn",
+   "nome": "Mawile",
+   "regiao": "hoenn",
+   "nivel": 600,
+   "especies": [
+    {
+     "pokeId": 13303,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "sableye_hoenn",
+   "nome": "Sableye",
+   "regiao": "hoenn",
+   "nivel": 600,
+   "especies": [
+    {
+     "pokeId": 13302,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "seviper_hoenn",
+   "nome": "Seviper",
+   "regiao": "hoenn",
+   "nivel": 600,
+   "especies": [
+    {
+     "pokeId": 13336,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "torkoal_hoenn",
+   "nome": "Torkoal",
+   "regiao": "hoenn",
+   "nivel": 600,
+   "especies": [
+    {
+     "pokeId": 13324,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "tropius_hoenn",
+   "nome": "Tropius",
+   "regiao": "hoenn",
+   "nivel": 600,
+   "especies": [
+    {
+     "pokeId": 13357,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "vigoroth_hoenn",
+   "nome": "Vigoroth",
+   "regiao": "hoenn",
+   "nivel": 600,
+   "especies": [
+    {
+     "pokeId": 13288,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "zangoose_hoenn",
+   "nome": "Zangoose",
+   "regiao": "hoenn",
+   "nivel": 600,
+   "especies": [
+    {
+     "pokeId": 13335,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "combusken_hoenn",
+   "nome": "Combusken",
+   "regiao": "hoenn",
+   "nivel": 650,
+   "especies": [
+    {
+     "pokeId": 13256,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "dusclops_hoenn",
+   "nome": "Dusclops",
+   "regiao": "hoenn",
+   "nivel": 650,
+   "especies": [
+    {
+     "pokeId": 13356,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "grovyle_hoenn",
+   "nome": "Grovyle",
+   "regiao": "hoenn",
+   "nivel": 650,
+   "especies": [
+    {
+     "pokeId": 13253,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "kirlia_hoenn",
+   "nome": "Kirlia",
+   "regiao": "hoenn",
+   "nivel": 650,
+   "especies": [
+    {
+     "pokeId": 13281,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "lairon_hoenn",
+   "nome": "Lairon",
+   "regiao": "hoenn",
+   "nivel": 650,
+   "especies": [
+    {
+     "pokeId": 13305,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "linoone_hoenn",
+   "nome": "Linoone",
+   "regiao": "hoenn",
+   "nivel": 650,
+   "especies": [
+    {
+     "pokeId": 13264,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "lombre_hoenn",
+   "nome": "Lombre",
+   "regiao": "hoenn",
+   "nivel": 650,
+   "especies": [
+    {
+     "pokeId": 13271,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "loudred_hoenn",
+   "nome": "Loudred",
+   "regiao": "hoenn",
+   "nivel": 650,
+   "especies": [
+    {
+     "pokeId": 13294,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "marshtomp_hoenn",
+   "nome": "Marshtomp",
+   "regiao": "hoenn",
+   "nivel": 650,
+   "especies": [
+    {
+     "pokeId": 13259,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "metang_hoenn",
+   "nome": "Metang",
+   "regiao": "hoenn",
+   "nivel": 650,
+   "especies": [
+    {
+     "pokeId": 13375,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "nuzleaf_hoenn",
+   "nome": "Nuzleaf",
+   "regiao": "hoenn",
+   "nivel": 650,
+   "especies": [
+    {
+     "pokeId": 13274,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "roselia_hoenn",
+   "nome": "Roselia",
+   "regiao": "hoenn",
+   "nivel": 650,
+   "especies": [
+    {
+     "pokeId": 13315,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "sealeo_hoenn",
+   "nome": "Sealeo",
+   "regiao": "hoenn",
+   "nivel": 650,
+   "especies": [
+    {
+     "pokeId": 13364,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "silcoon_hoenn",
+   "nome": "Silcoon",
+   "regiao": "hoenn",
+   "nivel": 650,
+   "especies": [
+    {
+     "pokeId": 13266,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "vibrava_hoenn",
+   "nome": "Vibrava",
+   "regiao": "hoenn",
+   "nivel": 650,
+   "especies": [
+    {
+     "pokeId": 13329,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "altaria_hoenn",
+   "nome": "Altaria",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 13334,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "armaldo_hoenn",
+   "nome": "Armaldo",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 13348,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "banette_hoenn",
+   "nome": "Banette",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 13354,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "breloom_hoenn",
+   "nome": "Breloom",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 13286,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "cacturne_hoenn",
+   "nome": "Cacturne",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 13332,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "camerupt_hoenn",
+   "nome": "Camerupt",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 13323,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "castform_rainy_hoenn",
+   "nome": "Castform Rainy",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 8351,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "castform_snowy_hoenn",
+   "nome": "Castform Snowy",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 9351,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "castform_sunny_hoenn",
+   "nome": "Castform Sunny",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 11351,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "chimecho_hoenn",
+   "nome": "Chimecho",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 13358,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "claydol_hoenn",
+   "nome": "Claydol",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 13344,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "cradily_hoenn",
+   "nome": "Cradily",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 13346,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "crawdaunt_hoenn",
+   "nome": "Crawdaunt",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 13342,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "delcatty_hoenn",
+   "nome": "Delcatty",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 13301,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "dustox_hoenn",
+   "nome": "Dustox",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 13269,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "glalie_hoenn",
+   "nome": "Glalie",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 13362,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "grumpig_hoenn",
+   "nome": "Grumpig",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 13326,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "hariyama_hoenn",
+   "nome": "Hariyama",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 13297,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "huntail_hoenn",
+   "nome": "Huntail",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 13367,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "manectric_hoenn",
+   "nome": "Manectric",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 13310,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "masquerain_hoenn",
+   "nome": "Masquerain",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 13284,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "medicham_hoenn",
+   "nome": "Medicham",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 13308,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "mightyena_hoenn",
+   "nome": "Mightyena",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 13262,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "milotic_hoenn",
+   "nome": "Milotic",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 350,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "ninjask_hoenn",
+   "nome": "Ninjask",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 13291,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "pelipper_hoenn",
+   "nome": "Pelipper",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 13279,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "sharpedo_hoenn",
+   "nome": "Sharpedo",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 13319,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "shelgon_hoenn",
+   "nome": "Shelgon",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 13372,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "slaking_hoenn",
+   "nome": "Slaking",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 289,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "swalot_hoenn",
+   "nome": "Swalot",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 13317,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "swellow_hoenn",
+   "nome": "Swellow",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 13277,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "wailord_hoenn",
+   "nome": "Wailord",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 13321,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "whiscash_hoenn",
+   "nome": "Whiscash",
+   "regiao": "hoenn",
+   "nivel": 700,
+   "especies": [
+    {
+     "pokeId": 13340,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "aggron_hoenn",
+   "nome": "Aggron",
+   "regiao": "hoenn",
+   "nivel": 850,
+   "especies": [
+    {
+     "pokeId": 13306,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "beautifly_hoenn",
+   "nome": "Beautifly",
+   "regiao": "hoenn",
+   "nivel": 850,
+   "especies": [
+    {
+     "pokeId": 13267,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "blaziken_hoenn",
+   "nome": "Blaziken",
+   "regiao": "hoenn",
+   "nivel": 850,
+   "especies": [
+    {
+     "pokeId": 13257,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "exploud_hoenn",
+   "nome": "Exploud",
+   "regiao": "hoenn",
+   "nivel": 850,
+   "especies": [
+    {
+     "pokeId": 13295,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "flygon_hoenn",
+   "nome": "Flygon",
+   "regiao": "hoenn",
+   "nivel": 850,
+   "especies": [
+    {
+     "pokeId": 13330,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "gardevoir_hoenn",
+   "nome": "Gardevoir",
+   "regiao": "hoenn",
+   "nivel": 850,
+   "especies": [
+    {
+     "pokeId": 13282,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "ludicolo_hoenn",
+   "nome": "Ludicolo",
+   "regiao": "hoenn",
+   "nivel": 850,
+   "especies": [
+    {
+     "pokeId": 13272,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "metagross_hoenn",
+   "nome": "Metagross",
+   "regiao": "hoenn",
+   "nivel": 850,
+   "especies": [
+    {
+     "pokeId": 376,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "salamence_hoenn",
+   "nome": "Salamence",
+   "regiao": "hoenn",
+   "nivel": 850,
+   "especies": [
+    {
+     "pokeId": 373,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "sceptile_hoenn",
+   "nome": "Sceptile",
+   "regiao": "hoenn",
+   "nivel": 850,
+   "especies": [
+    {
+     "pokeId": 13254,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "shiftry_hoenn",
+   "nome": "Shiftry",
+   "regiao": "hoenn",
+   "nivel": 850,
+   "especies": [
+    {
+     "pokeId": 13275,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "swampert_hoenn",
+   "nome": "Swampert",
+   "regiao": "hoenn",
+   "nivel": 850,
+   "especies": [
+    {
+     "pokeId": 13260,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "walrein_hoenn",
+   "nome": "Walrein",
+   "regiao": "hoenn",
+   "nivel": 850,
+   "especies": [
+    {
+     "pokeId": 13365,
+     "pontos": 16
+    }
+   ]
+  },
+  {
+   "slug": "bidoof_sinnoh",
+   "nome": "Bidoof",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 399,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "bonsly_sinnoh",
+   "nome": "Bonsly",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 438,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "bronzor_sinnoh",
+   "nome": "Bronzor",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 436,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "budew_sinnoh",
+   "nome": "Budew",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 406,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "buizel_sinnoh",
+   "nome": "Buizel",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 418,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "buneary_sinnoh",
+   "nome": "Buneary",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 427,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "burmy_plant_cloak_sinnoh",
+   "nome": "Burmy",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 412,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "cherubi_sinnoh",
+   "nome": "Cherubi",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 420,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "chimchar_sinnoh",
+   "nome": "Chimchar",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 390,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "chingling_sinnoh",
+   "nome": "Chingling",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 433,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "combee_sinnoh",
+   "nome": "Combee",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 415,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "cranidos_sinnoh",
+   "nome": "Cranidos",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 408,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "croagunk_sinnoh",
+   "nome": "Croagunk",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 453,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "drifloon_sinnoh",
+   "nome": "Drifloon",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 425,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "finneon_sinnoh",
+   "nome": "Finneon",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 456,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "gible_sinnoh",
+   "nome": "Gible",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 443,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "glameow_sinnoh",
+   "nome": "Glameow",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 431,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "happiny_sinnoh",
+   "nome": "Happiny",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 440,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hippopotas_sinnoh",
+   "nome": "Hippopotas",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 449,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "kricketot_sinnoh",
+   "nome": "Kricketot",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 401,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "mantyke_sinnoh",
+   "nome": "Mantyke",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 458,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "mime_jr_sinnoh",
+   "nome": "Mime Jr.",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 439,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "munchlax_sinnoh",
+   "nome": "Munchlax",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 446,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "piplup_sinnoh",
+   "nome": "Piplup",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 393,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "riolu_sinnoh",
+   "nome": "Riolu",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 447,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "shellos_sinnoh",
+   "nome": "Shellos",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 422,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "shieldon_sinnoh",
+   "nome": "Shieldon",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 410,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "shinx_sinnoh",
+   "nome": "Shinx",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 403,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "skorupi_sinnoh",
+   "nome": "Skorupi",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 451,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "snover_sinnoh",
+   "nome": "Snover",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 459,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "starly_sinnoh",
+   "nome": "Starly",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 396,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "stunky_sinnoh",
+   "nome": "Stunky",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 434,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "turtwig_sinnoh",
+   "nome": "Turtwig",
+   "regiao": "sinnoh",
+   "nivel": 1000,
+   "especies": [
+    {
+     "pokeId": 387,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "ambipom_sinnoh",
+   "nome": "Ambipom",
+   "regiao": "sinnoh",
+   "nivel": 1250,
+   "especies": [
+    {
+     "pokeId": 424,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "carnivine_sinnoh",
+   "nome": "Carnivine",
+   "regiao": "sinnoh",
+   "nivel": 1250,
+   "especies": [
+    {
+     "pokeId": 455,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "chatot_sinnoh",
+   "nome": "Chatot",
+   "regiao": "sinnoh",
+   "nivel": 1250,
+   "especies": [
+    {
+     "pokeId": 441,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "fan_rotom_sinnoh",
+   "nome": "Fan Rotom",
+   "regiao": "sinnoh",
+   "nivel": 1250,
+   "especies": [
+    {
+     "pokeId": 12479,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "froslass_sinnoh",
+   "nome": "Froslass",
+   "regiao": "sinnoh",
+   "nivel": 1250,
+   "especies": [
+    {
+     "pokeId": 478,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "frost_rotom_sinnoh",
+   "nome": "Frost Rotom",
+   "regiao": "sinnoh",
+   "nivel": 1250,
+   "especies": [
+    {
+     "pokeId": 11479,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "heat_rotom_sinnoh",
+   "nome": "Heat Rotom",
+   "regiao": "sinnoh",
+   "nivel": 1250,
+   "especies": [
+    {
+     "pokeId": 8479,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "mismagius_sinnoh",
+   "nome": "Mismagius",
+   "regiao": "sinnoh",
+   "nivel": 1250,
+   "especies": [
+    {
+     "pokeId": 429,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "mothim_sinnoh",
+   "nome": "Mothim",
+   "regiao": "sinnoh",
+   "nivel": 1250,
+   "especies": [
+    {
+     "pokeId": 414,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "mow_rotom_sinnoh",
+   "nome": "Mow Rotom",
+   "regiao": "sinnoh",
+   "nivel": 1250,
+   "especies": [
+    {
+     "pokeId": 1479,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "rotom_sinnoh",
+   "nome": "Rotom",
+   "regiao": "sinnoh",
+   "nivel": 1250,
+   "especies": [
+    {
+     "pokeId": 479,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "spiritomb_sinnoh",
+   "nome": "Spiritomb",
+   "regiao": "sinnoh",
+   "nivel": 1250,
+   "especies": [
+    {
+     "pokeId": 442,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "wash_rotom_sinnoh",
+   "nome": "Wash Rotom",
+   "regiao": "sinnoh",
+   "nivel": 1250,
+   "especies": [
+    {
+     "pokeId": 9479,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "gallade_sinnoh",
+   "nome": "Gallade",
+   "regiao": "sinnoh",
+   "nivel": 1500,
+   "especies": [
+    {
+     "pokeId": 475,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "glaceon_sinnoh",
+   "nome": "Glaceon",
+   "regiao": "sinnoh",
+   "nivel": 1500,
+   "especies": [
+    {
+     "pokeId": 471,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "gliscor_sinnoh",
+   "nome": "Gliscor",
+   "regiao": "sinnoh",
+   "nivel": 1500,
+   "especies": [
+    {
+     "pokeId": 472,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "honchkrow_sinnoh",
+   "nome": "Honchkrow",
+   "regiao": "sinnoh",
+   "nivel": 1500,
+   "especies": [
+    {
+     "pokeId": 430,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "leafeon_sinnoh",
+   "nome": "Leafeon",
+   "regiao": "sinnoh",
+   "nivel": 1500,
+   "especies": [
+    {
+     "pokeId": 470,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "lickilicky_sinnoh",
+   "nome": "Lickilicky",
+   "regiao": "sinnoh",
+   "nivel": 1500,
+   "especies": [
+    {
+     "pokeId": 463,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "magnezone_sinnoh",
+   "nome": "Magnezone",
+   "regiao": "sinnoh",
+   "nivel": 1500,
+   "especies": [
+    {
+     "pokeId": 462,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "mamoswine_sinnoh",
+   "nome": "Mamoswine",
+   "regiao": "sinnoh",
+   "nivel": 1500,
+   "especies": [
+    {
+     "pokeId": 473,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "pachirisu_sinnoh",
+   "nome": "Pachirisu",
+   "regiao": "sinnoh",
+   "nivel": 1500,
+   "especies": [
+    {
+     "pokeId": 417,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "porygon_z_sinnoh",
+   "nome": "Porygon-Z",
+   "regiao": "sinnoh",
+   "nivel": 1500,
+   "especies": [
+    {
+     "pokeId": 474,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "togekiss_sinnoh",
+   "nome": "Togekiss",
+   "regiao": "sinnoh",
+   "nivel": 1500,
+   "especies": [
+    {
+     "pokeId": 468,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "weavile_sinnoh",
+   "nome": "Weavile",
+   "regiao": "sinnoh",
+   "nivel": 1500,
+   "especies": [
+    {
+     "pokeId": 461,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "yanmega_sinnoh",
+   "nome": "Yanmega",
+   "regiao": "sinnoh",
+   "nivel": 1500,
+   "especies": [
+    {
+     "pokeId": 469,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "gabite_sinnoh",
+   "nome": "Gabite",
+   "regiao": "sinnoh",
+   "nivel": 1750,
+   "especies": [
+    {
+     "pokeId": 444,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "grotle_sinnoh",
+   "nome": "Grotle",
+   "regiao": "sinnoh",
+   "nivel": 1750,
+   "especies": [
+    {
+     "pokeId": 388,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "luxio_sinnoh",
+   "nome": "Luxio",
+   "regiao": "sinnoh",
+   "nivel": 1750,
+   "especies": [
+    {
+     "pokeId": 404,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "monferno_sinnoh",
+   "nome": "Monferno",
+   "regiao": "sinnoh",
+   "nivel": 1750,
+   "especies": [
+    {
+     "pokeId": 391,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "prinplup_sinnoh",
+   "nome": "Prinplup",
+   "regiao": "sinnoh",
+   "nivel": 1750,
+   "especies": [
+    {
+     "pokeId": 394,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "staravia_sinnoh",
+   "nome": "Staravia",
+   "regiao": "sinnoh",
+   "nivel": 1750,
+   "especies": [
+    {
+     "pokeId": 397,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "abomasnow_sinnoh",
+   "nome": "Abomasnow",
+   "regiao": "sinnoh",
+   "nivel": 2000,
+   "especies": [
+    {
+     "pokeId": 460,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "bibarel_sinnoh",
+   "nome": "Bibarel",
+   "regiao": "sinnoh",
+   "nivel": 2000,
+   "especies": [
+    {
+     "pokeId": 400,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "bronzong_sinnoh",
+   "nome": "Bronzong",
+   "regiao": "sinnoh",
+   "nivel": 2000,
+   "especies": [
+    {
+     "pokeId": 437,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "cherrim_sinnoh",
+   "nome": "Cherrim",
+   "regiao": "sinnoh",
+   "nivel": 2000,
+   "especies": [
+    {
+     "pokeId": 421,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "drapion_sinnoh",
+   "nome": "Drapion",
+   "regiao": "sinnoh",
+   "nivel": 2000,
+   "especies": [
+    {
+     "pokeId": 452,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "drifblim_sinnoh",
+   "nome": "Drifblim",
+   "regiao": "sinnoh",
+   "nivel": 2000,
+   "especies": [
+    {
+     "pokeId": 426,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "floatzel_sinnoh",
+   "nome": "Floatzel",
+   "regiao": "sinnoh",
+   "nivel": 2000,
+   "especies": [
+    {
+     "pokeId": 419,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "gastrodon_sinnoh",
+   "nome": "Gastrodon",
+   "regiao": "sinnoh",
+   "nivel": 2000,
+   "especies": [
+    {
+     "pokeId": 423,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hippowdon_sinnoh",
+   "nome": "Hippowdon",
+   "regiao": "sinnoh",
+   "nivel": 2000,
+   "especies": [
+    {
+     "pokeId": 450,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "kricketune_sinnoh",
+   "nome": "Kricketune",
+   "regiao": "sinnoh",
+   "nivel": 2000,
+   "especies": [
+    {
+     "pokeId": 402,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "lucario_sinnoh",
+   "nome": "Lucario",
+   "regiao": "sinnoh",
+   "nivel": 2000,
+   "especies": [
+    {
+     "pokeId": 448,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "lumineon_sinnoh",
+   "nome": "Lumineon",
+   "regiao": "sinnoh",
+   "nivel": 2000,
+   "especies": [
+    {
+     "pokeId": 457,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "probopass_sinnoh",
+   "nome": "Probopass",
+   "regiao": "sinnoh",
+   "nivel": 2000,
+   "especies": [
+    {
+     "pokeId": 476,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "purugly_sinnoh",
+   "nome": "Purugly",
+   "regiao": "sinnoh",
+   "nivel": 2000,
+   "especies": [
+    {
+     "pokeId": 432,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "rampardos_sinnoh",
+   "nome": "Rampardos",
+   "regiao": "sinnoh",
+   "nivel": 2000,
+   "especies": [
+    {
+     "pokeId": 409,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "skuntank_sinnoh",
+   "nome": "Skuntank",
+   "regiao": "sinnoh",
+   "nivel": 2000,
+   "especies": [
+    {
+     "pokeId": 435,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "toxicroak_sinnoh",
+   "nome": "Toxicroak",
+   "regiao": "sinnoh",
+   "nivel": 2000,
+   "especies": [
+    {
+     "pokeId": 454,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "wormadam_plant_cloak_sinnoh",
+   "nome": "Wormadam",
+   "regiao": "sinnoh",
+   "nivel": 2000,
+   "especies": [
+    {
+     "pokeId": 413,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "wormadam_sandy_cloak_sinnoh",
+   "nome": "Wormadam Sandy",
+   "regiao": "sinnoh",
+   "nivel": 2000,
+   "especies": [
+    {
+     "pokeId": 8413,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "wormadam_trash_cloak_sinnoh",
+   "nome": "Wormadam Trash",
+   "regiao": "sinnoh",
+   "nivel": 2000,
+   "especies": [
+    {
+     "pokeId": 9413,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "bastiodon_sinnoh",
+   "nome": "Bastiodon",
+   "regiao": "sinnoh",
+   "nivel": 3000,
+   "especies": [
+    {
+     "pokeId": 411,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "dusknoir_sinnoh",
+   "nome": "Dusknoir",
+   "regiao": "sinnoh",
+   "nivel": 3000,
+   "especies": [
+    {
+     "pokeId": 477,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "electivire_sinnoh",
+   "nome": "Electivire",
+   "regiao": "sinnoh",
+   "nivel": 3000,
+   "especies": [
+    {
+     "pokeId": 466,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "lopunny_sinnoh",
+   "nome": "Lopunny",
+   "regiao": "sinnoh",
+   "nivel": 3000,
+   "especies": [
+    {
+     "pokeId": 428,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "magmortar_sinnoh",
+   "nome": "Magmortar",
+   "regiao": "sinnoh",
+   "nivel": 3000,
+   "especies": [
+    {
+     "pokeId": 467,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "rhyperior_sinnoh",
+   "nome": "Rhyperior",
+   "regiao": "sinnoh",
+   "nivel": 3000,
+   "especies": [
+    {
+     "pokeId": 464,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "tangrowth_sinnoh",
+   "nome": "Tangrowth",
+   "regiao": "sinnoh",
+   "nivel": 3000,
+   "especies": [
+    {
+     "pokeId": 465,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "vespiquen_sinnoh",
+   "nome": "Vespiquen",
+   "regiao": "sinnoh",
+   "nivel": 3000,
+   "especies": [
+    {
+     "pokeId": 416,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "empoleon_sinnoh",
+   "nome": "Empoleon",
+   "regiao": "sinnoh",
+   "nivel": 3500,
+   "especies": [
+    {
+     "pokeId": 395,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "garchomp_sinnoh",
+   "nome": "Garchomp",
+   "regiao": "sinnoh",
+   "nivel": 3500,
+   "especies": [
+    {
+     "pokeId": 445,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "infernape_sinnoh",
+   "nome": "Infernape",
+   "regiao": "sinnoh",
+   "nivel": 3500,
+   "especies": [
+    {
+     "pokeId": 392,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "luxray_sinnoh",
+   "nome": "Luxray",
+   "regiao": "sinnoh",
+   "nivel": 3500,
+   "especies": [
+    {
+     "pokeId": 405,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "roserade_sinnoh",
+   "nome": "Roserade",
+   "regiao": "sinnoh",
+   "nivel": 3500,
+   "especies": [
+    {
+     "pokeId": 407,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "staraptor_sinnoh",
+   "nome": "Staraptor",
+   "regiao": "sinnoh",
+   "nivel": 3500,
+   "especies": [
+    {
+     "pokeId": 398,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "torterra_sinnoh",
+   "nome": "Torterra",
+   "regiao": "sinnoh",
+   "nivel": 3500,
+   "especies": [
+    {
+     "pokeId": 389,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "archen_unova",
+   "nome": "Archen",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 566,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "axew_unova",
+   "nome": "Axew",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 610,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "basculin_unova",
+   "nome": "Basculin",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 550,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "blitzle_unova",
+   "nome": "Blitzle",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 522,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "cottonee_unova",
+   "nome": "Cottonee",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 546,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "cubchoo_unova",
+   "nome": "Cubchoo",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 613,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "darumaka_unova",
+   "nome": "Darumaka",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 554,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "deerling_unova",
+   "nome": "Deerling",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 585,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "deino_unova",
+   "nome": "Deino",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 633,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "drilbur_unova",
+   "nome": "Drilbur",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 529,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "ducklett_unova",
+   "nome": "Ducklett",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 580,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "dwebble_unova",
+   "nome": "Dwebble",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 557,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "elgyem_unova",
+   "nome": "Elgyem",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 605,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "foongus_unova",
+   "nome": "Foongus",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 590,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "frillish_unova",
+   "nome": "Frillish",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 592,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "golett_unova",
+   "nome": "Golett",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 622,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "gothita_unova",
+   "nome": "Gothita",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 574,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "joltik_unova",
+   "nome": "Joltik",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 595,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "karrablast_unova",
+   "nome": "Karrablast",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 588,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "klink_unova",
+   "nome": "Klink",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 599,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "larvesta_unova",
+   "nome": "Larvesta",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 636,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "lillipup_unova",
+   "nome": "Lillipup",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 506,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "litwick_unova",
+   "nome": "Litwick",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 607,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "mienfoo_unova",
+   "nome": "Mienfoo",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 619,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "minccino_unova",
+   "nome": "Minccino",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 572,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "munna_unova",
+   "nome": "Munna",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 517,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "oshawott_unova",
+   "nome": "Oshawott",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 501,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "panpour_unova",
+   "nome": "Panpour",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 515,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "pansage_unova",
+   "nome": "Pansage",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 511,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "pansear_unova",
+   "nome": "Pansear",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 513,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "patrat_unova",
+   "nome": "Patrat",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 504,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "pawniard_unova",
+   "nome": "Pawniard",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 624,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "petilil_unova",
+   "nome": "Petilil",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 548,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "pidove_unova",
+   "nome": "Pidove",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 519,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "purrloin_unova",
+   "nome": "Purrloin",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 509,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "roggenrola_unova",
+   "nome": "Roggenrola",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 524,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "rufflet_unova",
+   "nome": "Rufflet",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 627,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "sandile_unova",
+   "nome": "Sandile",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 551,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "sawk_unova",
+   "nome": "Sawk",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 539,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "scraggy_unova",
+   "nome": "Scraggy",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 559,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "sewaddle_unova",
+   "nome": "Sewaddle",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 540,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "shelmet_unova",
+   "nome": "Shelmet",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 616,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "snivy_unova",
+   "nome": "Snivy",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 495,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "solosis_unova",
+   "nome": "Solosis",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 577,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "tepig_unova",
+   "nome": "Tepig",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 498,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "throh_unova",
+   "nome": "Throh",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 538,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "timburr_unova",
+   "nome": "Timburr",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 532,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "tirtouga_unova",
+   "nome": "Tirtouga",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 564,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "trubbish_unova",
+   "nome": "Trubbish",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 568,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "tympole_unova",
+   "nome": "Tympole",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 535,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "tynamo_unova",
+   "nome": "Tynamo",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 602,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "vanillite_unova",
+   "nome": "Vanillite",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 582,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "venipede_unova",
+   "nome": "Venipede",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 543,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "vullaby_unova",
+   "nome": "Vullaby",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 629,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "woobat_unova",
+   "nome": "Woobat",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 527,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "yamask_unova",
+   "nome": "Yamask",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 562,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "zorua_unova",
+   "nome": "Zorua",
+   "regiao": "unova",
+   "nivel": 5000,
+   "especies": [
+    {
+     "pokeId": 570,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "alomomola_unova",
+   "nome": "Alomomola",
+   "regiao": "unova",
+   "nivel": 5400,
+   "especies": [
+    {
+     "pokeId": 594,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "audino_unova",
+   "nome": "Audino",
+   "regiao": "unova",
+   "nivel": 5400,
+   "especies": [
+    {
+     "pokeId": 531,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "bouffalant_unova",
+   "nome": "Bouffalant",
+   "regiao": "unova",
+   "nivel": 5400,
+   "especies": [
+    {
+     "pokeId": 626,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "druddigon_unova",
+   "nome": "Druddigon",
+   "regiao": "unova",
+   "nivel": 5400,
+   "especies": [
+    {
+     "pokeId": 621,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "durant_unova",
+   "nome": "Durant",
+   "regiao": "unova",
+   "nivel": 5400,
+   "especies": [
+    {
+     "pokeId": 632,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "emolga_unova",
+   "nome": "Emolga",
+   "regiao": "unova",
+   "nivel": 5400,
+   "especies": [
+    {
+     "pokeId": 587,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "heatmor_unova",
+   "nome": "Heatmor",
+   "regiao": "unova",
+   "nivel": 5400,
+   "especies": [
+    {
+     "pokeId": 631,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "maractus_unova",
+   "nome": "Maractus",
+   "regiao": "unova",
+   "nivel": 5400,
+   "especies": [
+    {
+     "pokeId": 556,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "sigilyph_unova",
+   "nome": "Sigilyph",
+   "regiao": "unova",
+   "nivel": 5400,
+   "especies": [
+    {
+     "pokeId": 561,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "stunfisk_unova",
+   "nome": "Stunfisk",
+   "regiao": "unova",
+   "nivel": 5400,
+   "especies": [
+    {
+     "pokeId": 618,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "cryogonal_unova",
+   "nome": "Cryogonal",
+   "regiao": "unova",
+   "nivel": 5900,
+   "especies": [
+    {
+     "pokeId": 615,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "bisharp_unova",
+   "nome": "Bisharp",
+   "regiao": "unova",
+   "nivel": 6400,
+   "especies": [
+    {
+     "pokeId": 625,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "boldore_unova",
+   "nome": "Boldore",
+   "regiao": "unova",
+   "nivel": 6400,
+   "especies": [
+    {
+     "pokeId": 525,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "dewott_unova",
+   "nome": "Dewott",
+   "regiao": "unova",
+   "nivel": 6400,
+   "especies": [
+    {
+     "pokeId": 502,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "duosion_unova",
+   "nome": "Duosion",
+   "regiao": "unova",
+   "nivel": 6400,
+   "especies": [
+    {
+     "pokeId": 578,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "eelektrik_unova",
+   "nome": "Eelektrik",
+   "regiao": "unova",
+   "nivel": 6400,
+   "especies": [
+    {
+     "pokeId": 603,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "fraxure_unova",
+   "nome": "Fraxure",
+   "regiao": "unova",
+   "nivel": 6400,
+   "especies": [
+    {
+     "pokeId": 611,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "gothorita_unova",
+   "nome": "Gothorita",
+   "regiao": "unova",
+   "nivel": 6400,
+   "especies": [
+    {
+     "pokeId": 575,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "gurdurr_unova",
+   "nome": "Gurdurr",
+   "regiao": "unova",
+   "nivel": 6400,
+   "especies": [
+    {
+     "pokeId": 533,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "herdier_unova",
+   "nome": "Herdier",
+   "regiao": "unova",
+   "nivel": 6400,
+   "especies": [
+    {
+     "pokeId": 507,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "klang_unova",
+   "nome": "Klang",
+   "regiao": "unova",
+   "nivel": 6400,
+   "especies": [
+    {
+     "pokeId": 600,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "krokorok_unova",
+   "nome": "Krokorok",
+   "regiao": "unova",
+   "nivel": 6400,
+   "especies": [
+    {
+     "pokeId": 552,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "lampent_unova",
+   "nome": "Lampent",
+   "regiao": "unova",
+   "nivel": 6400,
+   "especies": [
+    {
+     "pokeId": 608,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "palpitoad_unova",
+   "nome": "Palpitoad",
+   "regiao": "unova",
+   "nivel": 6400,
+   "especies": [
+    {
+     "pokeId": 536,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "pignite_unova",
+   "nome": "Pignite",
+   "regiao": "unova",
+   "nivel": 6400,
+   "especies": [
+    {
+     "pokeId": 499,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "servine_unova",
+   "nome": "Servine",
+   "regiao": "unova",
+   "nivel": 6400,
+   "especies": [
+    {
+     "pokeId": 496,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "swadloon_unova",
+   "nome": "Swadloon",
+   "regiao": "unova",
+   "nivel": 6400,
+   "especies": [
+    {
+     "pokeId": 541,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "tranquill_unova",
+   "nome": "Tranquill",
+   "regiao": "unova",
+   "nivel": 6400,
+   "especies": [
+    {
+     "pokeId": 520,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "vanillish_unova",
+   "nome": "Vanillish",
+   "regiao": "unova",
+   "nivel": 6400,
+   "especies": [
+    {
+     "pokeId": 583,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "whirlipede_unova",
+   "nome": "Whirlipede",
+   "regiao": "unova",
+   "nivel": 6400,
+   "especies": [
+    {
+     "pokeId": 544,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "zweilous_unova",
+   "nome": "Zweilous",
+   "regiao": "unova",
+   "nivel": 6400,
+   "especies": [
+    {
+     "pokeId": 634,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "accelgor_unova",
+   "nome": "Accelgor",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 617,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "amoonguss_unova",
+   "nome": "Amoonguss",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 591,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "beartic_unova",
+   "nome": "Beartic",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 614,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "beheeyem_unova",
+   "nome": "Beheeyem",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 606,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "braviary_unova",
+   "nome": "Braviary",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 628,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "carracosta_unova",
+   "nome": "Carracosta",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 565,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "cinccino_unova",
+   "nome": "Cinccino",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 573,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "cofagrigus_unova",
+   "nome": "Cofagrigus",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 563,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "crustle_unova",
+   "nome": "Crustle",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 558,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "darmanitan_unova",
+   "nome": "Darmanitan",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 555,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "escavalier_unova",
+   "nome": "Escavalier",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 589,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "excadrill_unova",
+   "nome": "Excadrill",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 530,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "ferrothorn_unova",
+   "nome": "Ferrothorn",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 598,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "galvantula_unova",
+   "nome": "Galvantula",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 596,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "garbodor_unova",
+   "nome": "Garbodor",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 569,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "golurk_unova",
+   "nome": "Golurk",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 623,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "jellicent_unova",
+   "nome": "Jellicent",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 593,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "liepard_unova",
+   "nome": "Liepard",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 510,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "lilligant_unova",
+   "nome": "Lilligant",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 549,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "mandibuzz_unova",
+   "nome": "Mandibuzz",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 630,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "mienshao_unova",
+   "nome": "Mienshao",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 620,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "musharna_unova",
+   "nome": "Musharna",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 518,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "sawsbuck_unova",
+   "nome": "Sawsbuck",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 586,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "scrafty_unova",
+   "nome": "Scrafty",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 560,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "simipour_unova",
+   "nome": "Simipour",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 516,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "simisage_unova",
+   "nome": "Simisage",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 512,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "simisear_unova",
+   "nome": "Simisear",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 514,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "swanna_unova",
+   "nome": "Swanna",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 581,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "swoobat_unova",
+   "nome": "Swoobat",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 528,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "volcarona_unova",
+   "nome": "Volcarona",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 637,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "watchog_unova",
+   "nome": "Watchog",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 505,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "whimsicott_unova",
+   "nome": "Whimsicott",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 547,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "zebstrika_unova",
+   "nome": "Zebstrika",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 523,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "zoroark_unova",
+   "nome": "Zoroark",
+   "regiao": "unova",
+   "nivel": 6950,
+   "especies": [
+    {
+     "pokeId": 571,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "archeops_unova",
+   "nome": "Archeops",
+   "regiao": "unova",
+   "nivel": 8000,
+   "especies": [
+    {
+     "pokeId": 567,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "chandelure_unova",
+   "nome": "Chandelure",
+   "regiao": "unova",
+   "nivel": 8600,
+   "especies": [
+    {
+     "pokeId": 609,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "conkeldurr_unova",
+   "nome": "Conkeldurr",
+   "regiao": "unova",
+   "nivel": 8600,
+   "especies": [
+    {
+     "pokeId": 534,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "darmanitan_zen_unova",
+   "nome": "Darmanitan Zen",
+   "regiao": "unova",
+   "nivel": 8600,
+   "especies": [
+    {
+     "pokeId": 8555,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "eelektross_unova",
+   "nome": "Eelektross",
+   "regiao": "unova",
+   "nivel": 8600,
+   "especies": [
+    {
+     "pokeId": 604,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "emboar_unova",
+   "nome": "Emboar",
+   "regiao": "unova",
+   "nivel": 8600,
+   "especies": [
+    {
+     "pokeId": 500,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "gigalith_unova",
+   "nome": "Gigalith",
+   "regiao": "unova",
+   "nivel": 8600,
+   "especies": [
+    {
+     "pokeId": 526,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "gothitelle_unova",
+   "nome": "Gothitelle",
+   "regiao": "unova",
+   "nivel": 8600,
+   "especies": [
+    {
+     "pokeId": 576,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "haxorus_unova",
+   "nome": "Haxorus",
+   "regiao": "unova",
+   "nivel": 8600,
+   "especies": [
+    {
+     "pokeId": 612,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hydreigon_unova",
+   "nome": "Hydreigon",
+   "regiao": "unova",
+   "nivel": 8600,
+   "especies": [
+    {
+     "pokeId": 635,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "klinklang_unova",
+   "nome": "Klinklang",
+   "regiao": "unova",
+   "nivel": 8600,
+   "especies": [
+    {
+     "pokeId": 601,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "krookodile_unova",
+   "nome": "Krookodile",
+   "regiao": "unova",
+   "nivel": 8600,
+   "especies": [
+    {
+     "pokeId": 553,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "leavanny_unova",
+   "nome": "Leavanny",
+   "regiao": "unova",
+   "nivel": 8600,
+   "especies": [
+    {
+     "pokeId": 542,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "reuniclus_unova",
+   "nome": "Reuniclus",
+   "regiao": "unova",
+   "nivel": 8600,
+   "especies": [
+    {
+     "pokeId": 579,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "samurott_unova",
+   "nome": "Samurott",
+   "regiao": "unova",
+   "nivel": 8600,
+   "especies": [
+    {
+     "pokeId": 503,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "scolipede_unova",
+   "nome": "Scolipede",
+   "regiao": "unova",
+   "nivel": 8600,
+   "especies": [
+    {
+     "pokeId": 545,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "seismitoad_unova",
+   "nome": "Seismitoad",
+   "regiao": "unova",
+   "nivel": 8600,
+   "especies": [
+    {
+     "pokeId": 537,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "serperior_unova",
+   "nome": "Serperior",
+   "regiao": "unova",
+   "nivel": 8600,
+   "especies": [
+    {
+     "pokeId": 497,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "stoutland_unova",
+   "nome": "Stoutland",
+   "regiao": "unova",
+   "nivel": 8600,
+   "especies": [
+    {
+     "pokeId": 508,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "unfezant_unova",
+   "nome": "Unfezant",
+   "regiao": "unova",
+   "nivel": 8600,
+   "especies": [
+    {
+     "pokeId": 521,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "vanilluxe_unova",
+   "nome": "Vanilluxe",
+   "regiao": "unova",
+   "nivel": 8600,
+   "especies": [
+    {
+     "pokeId": 584,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "amaura_kalos",
+   "nome": "Amaura",
+   "regiao": "kalos",
+   "nivel": 10000,
+   "especies": [
+    {
+     "pokeId": 698,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "bergmite_kalos",
+   "nome": "Bergmite",
+   "regiao": "kalos",
+   "nivel": 10000,
+   "especies": [
+    {
+     "pokeId": 712,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "binacle_kalos",
+   "nome": "Binacle",
+   "regiao": "kalos",
+   "nivel": 10000,
+   "especies": [
+    {
+     "pokeId": 688,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "bunnelby_kalos",
+   "nome": "Bunnelby",
+   "regiao": "kalos",
+   "nivel": 10000,
+   "especies": [
+    {
+     "pokeId": 659,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "chespin_kalos",
+   "nome": "Chespin",
+   "regiao": "kalos",
+   "nivel": 10000,
+   "especies": [
+    {
+     "pokeId": 650,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "clauncher_kalos",
+   "nome": "Clauncher",
+   "regiao": "kalos",
+   "nivel": 10000,
+   "especies": [
+    {
+     "pokeId": 692,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "espurr_kalos",
+   "nome": "Espurr",
+   "regiao": "kalos",
+   "nivel": 10000,
+   "especies": [
+    {
+     "pokeId": 677,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "fennekin_kalos",
+   "nome": "Fennekin",
+   "regiao": "kalos",
+   "nivel": 10000,
+   "especies": [
+    {
+     "pokeId": 653,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "flabebe_kalos",
+   "nome": "Flabebe",
+   "regiao": "kalos",
+   "nivel": 10000,
+   "especies": [
+    {
+     "pokeId": 669,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "fletchling_kalos",
+   "nome": "Fletchling",
+   "regiao": "kalos",
+   "nivel": 10000,
+   "especies": [
+    {
+     "pokeId": 661,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "froakie_kalos",
+   "nome": "Froakie",
+   "regiao": "kalos",
+   "nivel": 10000,
+   "especies": [
+    {
+     "pokeId": 656,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "goomy_kalos",
+   "nome": "Goomy",
+   "regiao": "kalos",
+   "nivel": 10000,
+   "especies": [
+    {
+     "pokeId": 704,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "helioptile_kalos",
+   "nome": "Helioptile",
+   "regiao": "kalos",
+   "nivel": 10000,
+   "especies": [
+    {
+     "pokeId": 694,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "honedge_kalos",
+   "nome": "Honedge",
+   "regiao": "kalos",
+   "nivel": 10000,
+   "especies": [
+    {
+     "pokeId": 679,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "inkay_kalos",
+   "nome": "Inkay",
+   "regiao": "kalos",
+   "nivel": 10000,
+   "especies": [
+    {
+     "pokeId": 686,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "litleo_kalos",
+   "nome": "Litleo",
+   "regiao": "kalos",
+   "nivel": 10000,
+   "especies": [
+    {
+     "pokeId": 667,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "noibat_kalos",
+   "nome": "Noibat",
+   "regiao": "kalos",
+   "nivel": 10000,
+   "especies": [
+    {
+     "pokeId": 714,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "pancham_kalos",
+   "nome": "Pancham",
+   "regiao": "kalos",
+   "nivel": 10000,
+   "especies": [
+    {
+     "pokeId": 674,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "phantump_kalos",
+   "nome": "Phantump",
+   "regiao": "kalos",
+   "nivel": 10000,
+   "especies": [
+    {
+     "pokeId": 708,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "pumpkaboo_kalos",
+   "nome": "Pumpkaboo",
+   "regiao": "kalos",
+   "nivel": 10000,
+   "especies": [
+    {
+     "pokeId": 710,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "scatterbug_kalos",
+   "nome": "Scatterbug",
+   "regiao": "kalos",
+   "nivel": 10000,
+   "especies": [
+    {
+     "pokeId": 664,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "skiddo_kalos",
+   "nome": "Skiddo",
+   "regiao": "kalos",
+   "nivel": 10000,
+   "especies": [
+    {
+     "pokeId": 672,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "skrelp_kalos",
+   "nome": "Skrelp",
+   "regiao": "kalos",
+   "nivel": 10000,
+   "especies": [
+    {
+     "pokeId": 690,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "swirlix_kalos",
+   "nome": "Swirlix",
+   "regiao": "kalos",
+   "nivel": 10000,
+   "especies": [
+    {
+     "pokeId": 684,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "tyrunt_kalos",
+   "nome": "Tyrunt",
+   "regiao": "kalos",
+   "nivel": 10000,
+   "especies": [
+    {
+     "pokeId": 696,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "dedenne_kalos",
+   "nome": "Dedenne",
+   "regiao": "kalos",
+   "nivel": 11250,
+   "especies": [
+    {
+     "pokeId": 702,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "furfrou_kalos",
+   "nome": "Furfrou",
+   "regiao": "kalos",
+   "nivel": 11250,
+   "especies": [
+    {
+     "pokeId": 676,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "klefki_kalos",
+   "nome": "Klefki",
+   "regiao": "kalos",
+   "nivel": 11250,
+   "especies": [
+    {
+     "pokeId": 707,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "carbink_kalos",
+   "nome": "Carbink",
+   "regiao": "kalos",
+   "nivel": 12750,
+   "especies": [
+    {
+     "pokeId": 703,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hawlucha_kalos",
+   "nome": "Hawlucha",
+   "regiao": "kalos",
+   "nivel": 12750,
+   "especies": [
+    {
+     "pokeId": 701,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "sylveon_kalos",
+   "nome": "Sylveon",
+   "regiao": "kalos",
+   "nivel": 12750,
+   "especies": [
+    {
+     "pokeId": 700,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "braixen_kalos",
+   "nome": "Braixen",
+   "regiao": "kalos",
+   "nivel": 14350,
+   "especies": [
+    {
+     "pokeId": 654,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "doublade_kalos",
+   "nome": "Doublade",
+   "regiao": "kalos",
+   "nivel": 14350,
+   "especies": [
+    {
+     "pokeId": 680,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "fletchinder_kalos",
+   "nome": "Fletchinder",
+   "regiao": "kalos",
+   "nivel": 14350,
+   "especies": [
+    {
+     "pokeId": 662,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "floette_kalos",
+   "nome": "Floette",
+   "regiao": "kalos",
+   "nivel": 14350,
+   "especies": [
+    {
+     "pokeId": 670,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "frogadier_kalos",
+   "nome": "Frogadier",
+   "regiao": "kalos",
+   "nivel": 14350,
+   "especies": [
+    {
+     "pokeId": 657,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "quilladin_kalos",
+   "nome": "Quilladin",
+   "regiao": "kalos",
+   "nivel": 14350,
+   "especies": [
+    {
+     "pokeId": 651,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "sliggoo_kalos",
+   "nome": "Sliggoo",
+   "regiao": "kalos",
+   "nivel": 14350,
+   "especies": [
+    {
+     "pokeId": 705,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "spewpa_kalos",
+   "nome": "Spewpa",
+   "regiao": "kalos",
+   "nivel": 14350,
+   "especies": [
+    {
+     "pokeId": 665,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "aegislash_kalos",
+   "nome": "Aegislash",
+   "regiao": "kalos",
+   "nivel": 16000,
+   "especies": [
+    {
+     "pokeId": 681,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "aromatisse_kalos",
+   "nome": "Aromatisse",
+   "regiao": "kalos",
+   "nivel": 16000,
+   "especies": [
+    {
+     "pokeId": 683,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "aurorus_kalos",
+   "nome": "Aurorus",
+   "regiao": "kalos",
+   "nivel": 16000,
+   "especies": [
+    {
+     "pokeId": 699,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "avalugg_kalos",
+   "nome": "Avalugg",
+   "regiao": "kalos",
+   "nivel": 16000,
+   "especies": [
+    {
+     "pokeId": 713,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "barbaracle_kalos",
+   "nome": "Barbaracle",
+   "regiao": "kalos",
+   "nivel": 16000,
+   "especies": [
+    {
+     "pokeId": 689,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "clawitzer_kalos",
+   "nome": "Clawitzer",
+   "regiao": "kalos",
+   "nivel": 16000,
+   "especies": [
+    {
+     "pokeId": 693,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "diggersby_kalos",
+   "nome": "Diggersby",
+   "regiao": "kalos",
+   "nivel": 16000,
+   "especies": [
+    {
+     "pokeId": 660,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "gogoat_kalos",
+   "nome": "Gogoat",
+   "regiao": "kalos",
+   "nivel": 16000,
+   "especies": [
+    {
+     "pokeId": 673,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "gourgeist_kalos",
+   "nome": "Gourgeist",
+   "regiao": "kalos",
+   "nivel": 16000,
+   "especies": [
+    {
+     "pokeId": 711,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "heliolisk_kalos",
+   "nome": "Heliolisk",
+   "regiao": "kalos",
+   "nivel": 16000,
+   "especies": [
+    {
+     "pokeId": 695,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "malamar_kalos",
+   "nome": "Malamar",
+   "regiao": "kalos",
+   "nivel": 16000,
+   "especies": [
+    {
+     "pokeId": 687,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "meowstic_kalos",
+   "nome": "Meowstic",
+   "regiao": "kalos",
+   "nivel": 16000,
+   "especies": [
+    {
+     "pokeId": 678,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "noivern_kalos",
+   "nome": "Noivern",
+   "regiao": "kalos",
+   "nivel": 16000,
+   "especies": [
+    {
+     "pokeId": 715,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "pyroar_kalos",
+   "nome": "Pyroar",
+   "regiao": "kalos",
+   "nivel": 16000,
+   "especies": [
+    {
+     "pokeId": 668,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "slurpuff_kalos",
+   "nome": "Slurpuff",
+   "regiao": "kalos",
+   "nivel": 16000,
+   "especies": [
+    {
+     "pokeId": 685,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "trevenant_kalos",
+   "nome": "Trevenant",
+   "regiao": "kalos",
+   "nivel": 16000,
+   "especies": [
+    {
+     "pokeId": 709,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "tyrantrum_kalos",
+   "nome": "Tyrantrum",
+   "regiao": "kalos",
+   "nivel": 16000,
+   "especies": [
+    {
+     "pokeId": 697,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "dragalge_kalos",
+   "nome": "Dragalge",
+   "regiao": "kalos",
+   "nivel": 20000,
+   "especies": [
+    {
+     "pokeId": 691,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "pangoro_kalos",
+   "nome": "Pangoro",
+   "regiao": "kalos",
+   "nivel": 20000,
+   "especies": [
+    {
+     "pokeId": 675,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "aegislash_blade_kalos",
+   "nome": "Aegislash Blade",
+   "regiao": "kalos",
+   "nivel": 21200,
+   "especies": [
+    {
+     "pokeId": 8681,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "chesnaught_kalos",
+   "nome": "Chesnaught",
+   "regiao": "kalos",
+   "nivel": 21200,
+   "especies": [
+    {
+     "pokeId": 652,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "delphox_kalos",
+   "nome": "Delphox",
+   "regiao": "kalos",
+   "nivel": 21200,
+   "especies": [
+    {
+     "pokeId": 655,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "florges_kalos",
+   "nome": "Florges",
+   "regiao": "kalos",
+   "nivel": 21200,
+   "especies": [
+    {
+     "pokeId": 671,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "goodra_kalos",
+   "nome": "Goodra",
+   "regiao": "kalos",
+   "nivel": 21200,
+   "especies": [
+    {
+     "pokeId": 706,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "greninja_kalos",
+   "nome": "Greninja",
+   "regiao": "kalos",
+   "nivel": 21200,
+   "especies": [
+    {
+     "pokeId": 658,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "talonflame_kalos",
+   "nome": "Talonflame",
+   "regiao": "kalos",
+   "nivel": 21200,
+   "especies": [
+    {
+     "pokeId": 663,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "vivillon_kalos",
+   "nome": "Vivillon",
+   "regiao": "kalos",
+   "nivel": 21200,
+   "especies": [
+    {
+     "pokeId": 666,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "alolan_diglett_alola",
+   "nome": "Alolan Diglett",
+   "regiao": "alola",
+   "nivel": 25000,
+   "especies": [
+    {
+     "pokeId": 4050,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "alolan_geodude_alola",
+   "nome": "Alolan Geodude",
+   "regiao": "alola",
+   "nivel": 25000,
+   "especies": [
+    {
+     "pokeId": 4074,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "alolan_grimer_alola",
+   "nome": "Alolan Grimer",
+   "regiao": "alola",
+   "nivel": 25000,
+   "especies": [
+    {
+     "pokeId": 4088,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "alolan_meowth_alola",
+   "nome": "Alolan Meowth",
+   "regiao": "alola",
+   "nivel": 25000,
+   "especies": [
+    {
+     "pokeId": 4052,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "alolan_rattata_alola",
+   "nome": "Alolan Rattata",
+   "regiao": "alola",
+   "nivel": 25000,
+   "especies": [
+    {
+     "pokeId": 4019,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "alolan_sandshrew_alola",
+   "nome": "Alolan Sandshrew",
+   "regiao": "alola",
+   "nivel": 25000,
+   "especies": [
+    {
+     "pokeId": 4027,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "alolan_vulpix_alola",
+   "nome": "Alolan Vulpix",
+   "regiao": "alola",
+   "nivel": 25000,
+   "especies": [
+    {
+     "pokeId": 4037,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "bounsweet_alola",
+   "nome": "Bounsweet",
+   "regiao": "alola",
+   "nivel": 25000,
+   "especies": [
+    {
+     "pokeId": 761,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "crabrawler_alola",
+   "nome": "Crabrawler",
+   "regiao": "alola",
+   "nivel": 25000,
+   "especies": [
+    {
+     "pokeId": 739,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "cutiefly_alola",
+   "nome": "Cutiefly",
+   "regiao": "alola",
+   "nivel": 25000,
+   "especies": [
+    {
+     "pokeId": 742,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "dewpider_alola",
+   "nome": "Dewpider",
+   "regiao": "alola",
+   "nivel": 25000,
+   "especies": [
+    {
+     "pokeId": 751,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "fomantis_alola",
+   "nome": "Fomantis",
+   "regiao": "alola",
+   "nivel": 25000,
+   "especies": [
+    {
+     "pokeId": 753,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "grubbin_alola",
+   "nome": "Grubbin",
+   "regiao": "alola",
+   "nivel": 25000,
+   "especies": [
+    {
+     "pokeId": 736,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "jangmo_o_alola",
+   "nome": "Jangmo-o",
+   "regiao": "alola",
+   "nivel": 25000,
+   "especies": [
+    {
+     "pokeId": 782,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "litten_alola",
+   "nome": "Litten",
+   "regiao": "alola",
+   "nivel": 25000,
+   "especies": [
+    {
+     "pokeId": 725,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "mareanie_alola",
+   "nome": "Mareanie",
+   "regiao": "alola",
+   "nivel": 25000,
+   "especies": [
+    {
+     "pokeId": 747,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "morelull_alola",
+   "nome": "Morelull",
+   "regiao": "alola",
+   "nivel": 25000,
+   "especies": [
+    {
+     "pokeId": 755,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "mudbray_alola",
+   "nome": "Mudbray",
+   "regiao": "alola",
+   "nivel": 25000,
+   "especies": [
+    {
+     "pokeId": 749,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "pikipek_alola",
+   "nome": "Pikipek",
+   "regiao": "alola",
+   "nivel": 25000,
+   "especies": [
+    {
+     "pokeId": 731,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "popplio_alola",
+   "nome": "Popplio",
+   "regiao": "alola",
+   "nivel": 25000,
+   "especies": [
+    {
+     "pokeId": 728,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "rockruff_alola",
+   "nome": "Rockruff",
+   "regiao": "alola",
+   "nivel": 25000,
+   "especies": [
+    {
+     "pokeId": 744,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "rowlet_alola",
+   "nome": "Rowlet",
+   "regiao": "alola",
+   "nivel": 25000,
+   "especies": [
+    {
+     "pokeId": 722,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "salandit_alola",
+   "nome": "Salandit",
+   "regiao": "alola",
+   "nivel": 25000,
+   "especies": [
+    {
+     "pokeId": 757,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "sandygast_alola",
+   "nome": "Sandygast",
+   "regiao": "alola",
+   "nivel": 25000,
+   "especies": [
+    {
+     "pokeId": 769,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "stufful_alola",
+   "nome": "Stufful",
+   "regiao": "alola",
+   "nivel": 25000,
+   "especies": [
+    {
+     "pokeId": 759,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "wimpod_alola",
+   "nome": "Wimpod",
+   "regiao": "alola",
+   "nivel": 25000,
+   "especies": [
+    {
+     "pokeId": 767,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "wishiwashi_alola",
+   "nome": "Wishiwashi",
+   "regiao": "alola",
+   "nivel": 25000,
+   "especies": [
+    {
+     "pokeId": 746,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "yungoos_alola",
+   "nome": "Yungoos",
+   "regiao": "alola",
+   "nivel": 25000,
+   "especies": [
+    {
+     "pokeId": 734,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "bruxish_alola",
+   "nome": "Bruxish",
+   "regiao": "alola",
+   "nivel": 26150,
+   "especies": [
+    {
+     "pokeId": 779,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "comfey_alola",
+   "nome": "Comfey",
+   "regiao": "alola",
+   "nivel": 26150,
+   "especies": [
+    {
+     "pokeId": 764,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "drampa_alola",
+   "nome": "Drampa",
+   "regiao": "alola",
+   "nivel": 26150,
+   "especies": [
+    {
+     "pokeId": 780,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "komala_alola",
+   "nome": "Komala",
+   "regiao": "alola",
+   "nivel": 26150,
+   "especies": [
+    {
+     "pokeId": 775,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "mimikyu_alola",
+   "nome": "Mimikyu",
+   "regiao": "alola",
+   "nivel": 26150,
+   "especies": [
+    {
+     "pokeId": 778,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "minior_alola",
+   "nome": "Minior",
+   "regiao": "alola",
+   "nivel": 26150,
+   "especies": [
+    {
+     "pokeId": 774,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "minior_core_alola",
+   "nome": "Minior Core",
+   "regiao": "alola",
+   "nivel": 26150,
+   "especies": [
+    {
+     "pokeId": 8774,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "oricorio_alola",
+   "nome": "Oricorio",
+   "regiao": "alola",
+   "nivel": 26150,
+   "especies": [
+    {
+     "pokeId": 741,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "oricorio_pau_alola",
+   "nome": "Oricorio Pa'u",
+   "regiao": "alola",
+   "nivel": 26150,
+   "especies": [
+    {
+     "pokeId": 9741,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "oricorio_pom_pom_alola",
+   "nome": "Oricorio Pom-Pom",
+   "regiao": "alola",
+   "nivel": 26150,
+   "especies": [
+    {
+     "pokeId": 8741,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "oricorio_sensu_alola",
+   "nome": "Oricorio Sensu",
+   "regiao": "alola",
+   "nivel": 26150,
+   "especies": [
+    {
+     "pokeId": 11741,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "passimian_alola",
+   "nome": "Passimian",
+   "regiao": "alola",
+   "nivel": 26150,
+   "especies": [
+    {
+     "pokeId": 766,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "pyukumuku_alola",
+   "nome": "Pyukumuku",
+   "regiao": "alola",
+   "nivel": 26150,
+   "especies": [
+    {
+     "pokeId": 771,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "togedemaru_alola",
+   "nome": "Togedemaru",
+   "regiao": "alola",
+   "nivel": 26150,
+   "especies": [
+    {
+     "pokeId": 777,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "turtonator_alola",
+   "nome": "Turtonator",
+   "regiao": "alola",
+   "nivel": 26150,
+   "especies": [
+    {
+     "pokeId": 776,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "wishiwashi_school_alola",
+   "nome": "Wishiwashi School",
+   "regiao": "alola",
+   "nivel": 26150,
+   "especies": [
+    {
+     "pokeId": 8746,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "dhelmise_alola",
+   "nome": "Dhelmise",
+   "regiao": "alola",
+   "nivel": 27500,
+   "especies": [
+    {
+     "pokeId": 781,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "alolan_graveler_alola",
+   "nome": "Alolan Graveler",
+   "regiao": "alola",
+   "nivel": 28950,
+   "especies": [
+    {
+     "pokeId": 4075,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "brionne_alola",
+   "nome": "Brionne",
+   "regiao": "alola",
+   "nivel": 28950,
+   "especies": [
+    {
+     "pokeId": 729,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "charjabug_alola",
+   "nome": "Charjabug",
+   "regiao": "alola",
+   "nivel": 28950,
+   "especies": [
+    {
+     "pokeId": 737,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "dartrix_alola",
+   "nome": "Dartrix",
+   "regiao": "alola",
+   "nivel": 28950,
+   "especies": [
+    {
+     "pokeId": 723,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hakamo_o_alola",
+   "nome": "Hakamo-o",
+   "regiao": "alola",
+   "nivel": 28950,
+   "especies": [
+    {
+     "pokeId": 783,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "steenee_alola",
+   "nome": "Steenee",
+   "regiao": "alola",
+   "nivel": 28950,
+   "especies": [
+    {
+     "pokeId": 762,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "torracat_alola",
+   "nome": "Torracat",
+   "regiao": "alola",
+   "nivel": 28950,
+   "especies": [
+    {
+     "pokeId": 726,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "trumbeak_alola",
+   "nome": "Trumbeak",
+   "regiao": "alola",
+   "nivel": 28950,
+   "especies": [
+    {
+     "pokeId": 732,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "alolan_dugtrio_alola",
+   "nome": "Alolan Dugtrio",
+   "regiao": "alola",
+   "nivel": 30450,
+   "especies": [
+    {
+     "pokeId": 4051,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "alolan_exeggutor_alola",
+   "nome": "Alolan Exeggutor",
+   "regiao": "alola",
+   "nivel": 30450,
+   "especies": [
+    {
+     "pokeId": 4103,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "alolan_marowak_alola",
+   "nome": "Alolan Marowak",
+   "regiao": "alola",
+   "nivel": 30450,
+   "especies": [
+    {
+     "pokeId": 4105,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "alolan_muk_alola",
+   "nome": "Alolan Muk",
+   "regiao": "alola",
+   "nivel": 30450,
+   "especies": [
+    {
+     "pokeId": 4089,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "alolan_ninetales_alola",
+   "nome": "Alolan Ninetales",
+   "regiao": "alola",
+   "nivel": 30450,
+   "especies": [
+    {
+     "pokeId": 4038,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "alolan_persian_alola",
+   "nome": "Alolan Persian",
+   "regiao": "alola",
+   "nivel": 30450,
+   "especies": [
+    {
+     "pokeId": 4053,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "alolan_raticate_alola",
+   "nome": "Alolan Raticate",
+   "regiao": "alola",
+   "nivel": 30450,
+   "especies": [
+    {
+     "pokeId": 4020,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "alolan_sandslash_alola",
+   "nome": "Alolan Sandslash",
+   "regiao": "alola",
+   "nivel": 30450,
+   "especies": [
+    {
+     "pokeId": 4028,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "araquanid_alola",
+   "nome": "Araquanid",
+   "regiao": "alola",
+   "nivel": 30450,
+   "especies": [
+    {
+     "pokeId": 752,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "bewear_alola",
+   "nome": "Bewear",
+   "regiao": "alola",
+   "nivel": 30450,
+   "especies": [
+    {
+     "pokeId": 760,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "crabominable_alola",
+   "nome": "Crabominable",
+   "regiao": "alola",
+   "nivel": 30450,
+   "especies": [
+    {
+     "pokeId": 740,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "golisopod_alola",
+   "nome": "Golisopod",
+   "regiao": "alola",
+   "nivel": 30450,
+   "especies": [
+    {
+     "pokeId": 768,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "gumshoos_alola",
+   "nome": "Gumshoos",
+   "regiao": "alola",
+   "nivel": 30450,
+   "especies": [
+    {
+     "pokeId": 735,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "lurantis_alola",
+   "nome": "Lurantis",
+   "regiao": "alola",
+   "nivel": 30450,
+   "especies": [
+    {
+     "pokeId": 754,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "lycanroc_alola",
+   "nome": "Lycanroc",
+   "regiao": "alola",
+   "nivel": 30450,
+   "especies": [
+    {
+     "pokeId": 745,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "lycanroc_dusk_alola",
+   "nome": "Lycanroc Dusk",
+   "regiao": "alola",
+   "nivel": 30450,
+   "especies": [
+    {
+     "pokeId": 9745,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "lycanroc_midnight_alola",
+   "nome": "Lycanroc Midnight",
+   "regiao": "alola",
+   "nivel": 30450,
+   "especies": [
+    {
+     "pokeId": 8745,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "mudsdale_alola",
+   "nome": "Mudsdale",
+   "regiao": "alola",
+   "nivel": 30450,
+   "especies": [
+    {
+     "pokeId": 750,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "palossand_alola",
+   "nome": "Palossand",
+   "regiao": "alola",
+   "nivel": 30450,
+   "especies": [
+    {
+     "pokeId": 770,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "ribombee_alola",
+   "nome": "Ribombee",
+   "regiao": "alola",
+   "nivel": 30450,
+   "especies": [
+    {
+     "pokeId": 743,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "salazzle_alola",
+   "nome": "Salazzle",
+   "regiao": "alola",
+   "nivel": 30450,
+   "especies": [
+    {
+     "pokeId": 758,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "shiinotic_alola",
+   "nome": "Shiinotic",
+   "regiao": "alola",
+   "nivel": 30450,
+   "especies": [
+    {
+     "pokeId": 756,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "toxapex_alola",
+   "nome": "Toxapex",
+   "regiao": "alola",
+   "nivel": 30450,
+   "especies": [
+    {
+     "pokeId": 748,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "alolan_raichu_alola",
+   "nome": "Alolan Raichu",
+   "regiao": "alola",
+   "nivel": 35150,
+   "especies": [
+    {
+     "pokeId": 4026,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "decidueye_alola",
+   "nome": "Decidueye",
+   "regiao": "alola",
+   "nivel": 35150,
+   "especies": [
+    {
+     "pokeId": 724,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "incineroar_alola",
+   "nome": "Incineroar",
+   "regiao": "alola",
+   "nivel": 35150,
+   "especies": [
+    {
+     "pokeId": 727,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "kommo_o_alola",
+   "nome": "Kommo-o",
+   "regiao": "alola",
+   "nivel": 35150,
+   "especies": [
+    {
+     "pokeId": 784,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "primarina_alola",
+   "nome": "Primarina",
+   "regiao": "alola",
+   "nivel": 35150,
+   "especies": [
+    {
+     "pokeId": 730,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "toucannon_alola",
+   "nome": "Toucannon",
+   "regiao": "alola",
+   "nivel": 35150,
+   "especies": [
+    {
+     "pokeId": 733,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "tsareena_alola",
+   "nome": "Tsareena",
+   "regiao": "alola",
+   "nivel": 35150,
+   "especies": [
+    {
+     "pokeId": 763,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "vikavolt_alola",
+   "nome": "Vikavolt",
+   "regiao": "alola",
+   "nivel": 35150,
+   "especies": [
+    {
+     "pokeId": 738,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "applin_alola",
+   "nome": "Applin",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 840,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "arrokuda_alola",
+   "nome": "Arrokuda",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 846,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "blipbug_alola",
+   "nome": "Blipbug",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 824,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "chewtle_alola",
+   "nome": "Chewtle",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 833,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "clobbopus_alola",
+   "nome": "Clobbopus",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 852,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "cufant_alola",
+   "nome": "Cufant",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 878,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "dreepy_alola",
+   "nome": "Dreepy",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 885,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "duraludon_alola",
+   "nome": "Duraludon",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 884,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "galarian_corsola_alola",
+   "nome": "Galarian Corsola",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 5222,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "galarian_darumaka_alola",
+   "nome": "Galarian Darumaka",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 5554,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "galarian_farfetchd_alola",
+   "nome": "Galarian Farfetch'd",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 5083,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "galarian_meowth_alola",
+   "nome": "Galarian Meowth",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 5052,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "galarian_ponyta_alola",
+   "nome": "Galarian Ponyta",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 5077,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "galarian_slowpoke_alola",
+   "nome": "Galarian Slowpoke",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 5079,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "galarian_yamask_alola",
+   "nome": "Galarian Yamask",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 5562,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "galarian_zigzagoon_alola",
+   "nome": "Galarian Zigzagoon",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 5263,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "gossifleur_alola",
+   "nome": "Gossifleur",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 829,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "grookey_alola",
+   "nome": "Grookey",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 810,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hatenna_alola",
+   "nome": "Hatenna",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 856,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hisuian_growlithe_alola",
+   "nome": "Hisuian Growlithe",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 6058,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hisuian_qwilfish_alola",
+   "nome": "Hisuian Qwilfish",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 6211,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hisuian_sneasel_alola",
+   "nome": "Hisuian Sneasel",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 6215,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hisuian_voltorb_alola",
+   "nome": "Hisuian Voltorb",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 6100,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hisuian_zorua_alola",
+   "nome": "Hisuian Zorua",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 6570,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "impidimp_alola",
+   "nome": "Impidimp",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 859,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "milcery_alola",
+   "nome": "Milcery",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 868,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "nickit_alola",
+   "nome": "Nickit",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 827,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "rolycoly_alola",
+   "nome": "Rolycoly",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 837,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "rookidee_alola",
+   "nome": "Rookidee",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 821,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "scorbunny_alola",
+   "nome": "Scorbunny",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 813,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "silicobra_alola",
+   "nome": "Silicobra",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 843,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "sinistea_alola",
+   "nome": "Sinistea",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 854,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "sizzlipede_alola",
+   "nome": "Sizzlipede",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 850,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "skwovet_alola",
+   "nome": "Skwovet",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 819,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "snom_alola",
+   "nome": "Snom",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 872,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "sobble_alola",
+   "nome": "Sobble",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 816,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "toxel_alola",
+   "nome": "Toxel",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 848,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "wooloo_alola",
+   "nome": "Wooloo",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 831,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "yamper_alola",
+   "nome": "Yamper",
+   "regiao": "galar",
+   "nivel": 40000,
+   "especies": [
+    {
+     "pokeId": 835,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "appletun_alola",
+   "nome": "Appletun",
+   "regiao": "galar",
+   "nivel": 42800,
+   "especies": [
+    {
+     "pokeId": 842,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "cramorant_alola",
+   "nome": "Cramorant",
+   "regiao": "galar",
+   "nivel": 42800,
+   "especies": [
+    {
+     "pokeId": 845,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "eiscue_alola",
+   "nome": "Eiscue",
+   "regiao": "galar",
+   "nivel": 42800,
+   "especies": [
+    {
+     "pokeId": 875,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "falinks_alola",
+   "nome": "Falinks",
+   "regiao": "galar",
+   "nivel": 42800,
+   "especies": [
+    {
+     "pokeId": 870,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "indeedee_alola",
+   "nome": "Indeedee",
+   "regiao": "galar",
+   "nivel": 42800,
+   "especies": [
+    {
+     "pokeId": 876,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "morpeko_alola",
+   "nome": "Morpeko",
+   "regiao": "galar",
+   "nivel": 42800,
+   "especies": [
+    {
+     "pokeId": 877,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "perrserker_alola",
+   "nome": "Perrserker",
+   "regiao": "galar",
+   "nivel": 42800,
+   "especies": [
+    {
+     "pokeId": 863,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "pincurchin_alola",
+   "nome": "Pincurchin",
+   "regiao": "galar",
+   "nivel": 42800,
+   "especies": [
+    {
+     "pokeId": 871,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "runerigus_alola",
+   "nome": "Runerigus",
+   "regiao": "galar",
+   "nivel": 42800,
+   "especies": [
+    {
+     "pokeId": 867,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "stonjourner_alola",
+   "nome": "Stonjourner",
+   "regiao": "galar",
+   "nivel": 42800,
+   "especies": [
+    {
+     "pokeId": 874,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "arctovish_alola",
+   "nome": "Arctovish",
+   "regiao": "galar",
+   "nivel": 46150,
+   "especies": [
+    {
+     "pokeId": 883,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "arctozolt_alola",
+   "nome": "Arctozolt",
+   "regiao": "galar",
+   "nivel": 46150,
+   "especies": [
+    {
+     "pokeId": 881,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "cursola_alola",
+   "nome": "Cursola",
+   "regiao": "galar",
+   "nivel": 46150,
+   "especies": [
+    {
+     "pokeId": 864,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "dracovish_alola",
+   "nome": "Dracovish",
+   "regiao": "galar",
+   "nivel": 46150,
+   "especies": [
+    {
+     "pokeId": 882,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "dracozolt_alola",
+   "nome": "Dracozolt",
+   "regiao": "galar",
+   "nivel": 46150,
+   "especies": [
+    {
+     "pokeId": 880,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "galarian_stunfisk_alola",
+   "nome": "Galarian Stunfisk",
+   "regiao": "galar",
+   "nivel": 46150,
+   "especies": [
+    {
+     "pokeId": 5618,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "kleavor_alola",
+   "nome": "Kleavor",
+   "regiao": "galar",
+   "nivel": 46150,
+   "especies": [
+    {
+     "pokeId": 900,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "mr_rime_alola",
+   "nome": "Mr. Rime",
+   "regiao": "galar",
+   "nivel": 46150,
+   "especies": [
+    {
+     "pokeId": 866,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "overqwil_alola",
+   "nome": "Overqwil",
+   "regiao": "galar",
+   "nivel": 46150,
+   "especies": [
+    {
+     "pokeId": 904,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "sirfetchd_alola",
+   "nome": "Sirfetch'd",
+   "regiao": "galar",
+   "nivel": 46150,
+   "especies": [
+    {
+     "pokeId": 865,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "sneasler_alola",
+   "nome": "Sneasler",
+   "regiao": "galar",
+   "nivel": 46150,
+   "especies": [
+    {
+     "pokeId": 903,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "ursaluna_alola",
+   "nome": "Ursaluna",
+   "regiao": "galar",
+   "nivel": 46150,
+   "especies": [
+    {
+     "pokeId": 901,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "wyrdeer_alola",
+   "nome": "Wyrdeer",
+   "regiao": "galar",
+   "nivel": 46150,
+   "especies": [
+    {
+     "pokeId": 899,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "carkol_alola",
+   "nome": "Carkol",
+   "regiao": "galar",
+   "nivel": 49650,
+   "especies": [
+    {
+     "pokeId": 838,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "corvisquire_alola",
+   "nome": "Corvisquire",
+   "regiao": "galar",
+   "nivel": 49650,
+   "especies": [
+    {
+     "pokeId": 822,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "dottler_alola",
+   "nome": "Dottler",
+   "regiao": "galar",
+   "nivel": 49650,
+   "especies": [
+    {
+     "pokeId": 825,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "drakloak_alola",
+   "nome": "Drakloak",
+   "regiao": "galar",
+   "nivel": 49650,
+   "especies": [
+    {
+     "pokeId": 886,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "drizzile_alola",
+   "nome": "Drizzile",
+   "regiao": "galar",
+   "nivel": 49650,
+   "especies": [
+    {
+     "pokeId": 817,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "galarian_linoone_alola",
+   "nome": "Galarian Linoone",
+   "regiao": "galar",
+   "nivel": 49650,
+   "especies": [
+    {
+     "pokeId": 5264,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "galarian_mr_mime_alola",
+   "nome": "Galarian Mr. Mime",
+   "regiao": "galar",
+   "nivel": 49650,
+   "especies": [
+    {
+     "pokeId": 5122,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hattrem_alola",
+   "nome": "Hattrem",
+   "regiao": "galar",
+   "nivel": 49650,
+   "especies": [
+    {
+     "pokeId": 857,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hisuian_sliggoo_alola",
+   "nome": "Hisuian Sliggoo",
+   "regiao": "galar",
+   "nivel": 49650,
+   "especies": [
+    {
+     "pokeId": 6705,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "morgrem_alola",
+   "nome": "Morgrem",
+   "regiao": "galar",
+   "nivel": 49650,
+   "especies": [
+    {
+     "pokeId": 860,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "raboot_alola",
+   "nome": "Raboot",
+   "regiao": "galar",
+   "nivel": 49650,
+   "especies": [
+    {
+     "pokeId": 814,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "thwackey_alola",
+   "nome": "Thwackey",
+   "regiao": "galar",
+   "nivel": 49650,
+   "especies": [
+    {
+     "pokeId": 811,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "alcremie_alola",
+   "nome": "Alcremie",
+   "regiao": "galar",
+   "nivel": 53350,
+   "especies": [
+    {
+     "pokeId": 869,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "barraskewda_alola",
+   "nome": "Barraskewda",
+   "regiao": "galar",
+   "nivel": 53350,
+   "especies": [
+    {
+     "pokeId": 847,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "basculegion_alola",
+   "nome": "Basculegion",
+   "regiao": "galar",
+   "nivel": 53350,
+   "especies": [
+    {
+     "pokeId": 902,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "basculegion_female_alola",
+   "nome": "Basculegion Female",
+   "regiao": "galar",
+   "nivel": 53350,
+   "especies": [
+    {
+     "pokeId": 8902,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "boltund_alola",
+   "nome": "Boltund",
+   "regiao": "galar",
+   "nivel": 53350,
+   "especies": [
+    {
+     "pokeId": 836,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "centiskorch_alola",
+   "nome": "Centiskorch",
+   "regiao": "galar",
+   "nivel": 53350,
+   "especies": [
+    {
+     "pokeId": 851,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "copperajah_alola",
+   "nome": "Copperajah",
+   "regiao": "galar",
+   "nivel": 53350,
+   "especies": [
+    {
+     "pokeId": 879,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "drednaw_alola",
+   "nome": "Drednaw",
+   "regiao": "galar",
+   "nivel": 53350,
+   "especies": [
+    {
+     "pokeId": 834,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "dubwool_alola",
+   "nome": "Dubwool",
+   "regiao": "galar",
+   "nivel": 53350,
+   "especies": [
+    {
+     "pokeId": 832,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "eldegoss_alola",
+   "nome": "Eldegoss",
+   "regiao": "galar",
+   "nivel": 53350,
+   "especies": [
+    {
+     "pokeId": 830,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "flapple_alola",
+   "nome": "Flapple",
+   "regiao": "galar",
+   "nivel": 53350,
+   "especies": [
+    {
+     "pokeId": 841,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "frosmoth_alola",
+   "nome": "Frosmoth",
+   "regiao": "galar",
+   "nivel": 53350,
+   "especies": [
+    {
+     "pokeId": 873,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "galarian_darmanitan_alola",
+   "nome": "Galarian Darmanitan",
+   "regiao": "galar",
+   "nivel": 53350,
+   "especies": [
+    {
+     "pokeId": 5555,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "galarian_rapidash_alola",
+   "nome": "Galarian Rapidash",
+   "regiao": "galar",
+   "nivel": 53350,
+   "especies": [
+    {
+     "pokeId": 5078,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "galarian_slowbro_alola",
+   "nome": "Galarian Slowbro",
+   "regiao": "galar",
+   "nivel": 53350,
+   "especies": [
+    {
+     "pokeId": 5080,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "galarian_slowking_alola",
+   "nome": "Galarian Slowking",
+   "regiao": "galar",
+   "nivel": 53350,
+   "especies": [
+    {
+     "pokeId": 5199,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "galarian_weezing_alola",
+   "nome": "Galarian Weezing",
+   "regiao": "galar",
+   "nivel": 53350,
+   "especies": [
+    {
+     "pokeId": 5110,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "grapploct_alola",
+   "nome": "Grapploct",
+   "regiao": "galar",
+   "nivel": 53350,
+   "especies": [
+    {
+     "pokeId": 853,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "greedent_alola",
+   "nome": "Greedent",
+   "regiao": "galar",
+   "nivel": 53350,
+   "especies": [
+    {
+     "pokeId": 820,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hisuian_arcanine_alola",
+   "nome": "Hisuian Arcanine",
+   "regiao": "galar",
+   "nivel": 53350,
+   "especies": [
+    {
+     "pokeId": 6059,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hisuian_avalugg_alola",
+   "nome": "Hisuian Avalugg",
+   "regiao": "galar",
+   "nivel": 53350,
+   "especies": [
+    {
+     "pokeId": 6713,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hisuian_braviary_alola",
+   "nome": "Hisuian Braviary",
+   "regiao": "galar",
+   "nivel": 53350,
+   "especies": [
+    {
+     "pokeId": 6628,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hisuian_electrode_alola",
+   "nome": "Hisuian Electrode",
+   "regiao": "galar",
+   "nivel": 53350,
+   "especies": [
+    {
+     "pokeId": 6101,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hisuian_lilligant_alola",
+   "nome": "Hisuian Lilligant",
+   "regiao": "galar",
+   "nivel": 53350,
+   "especies": [
+    {
+     "pokeId": 6549,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hisuian_zoroark_alola",
+   "nome": "Hisuian Zoroark",
+   "regiao": "galar",
+   "nivel": 53350,
+   "especies": [
+    {
+     "pokeId": 6571,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "polteageist_alola",
+   "nome": "Polteageist",
+   "regiao": "galar",
+   "nivel": 53350,
+   "especies": [
+    {
+     "pokeId": 855,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "sandaconda_alola",
+   "nome": "Sandaconda",
+   "regiao": "galar",
+   "nivel": 53350,
+   "especies": [
+    {
+     "pokeId": 844,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "thievul_alola",
+   "nome": "Thievul",
+   "regiao": "galar",
+   "nivel": 53350,
+   "especies": [
+    {
+     "pokeId": 828,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "toxtricity_alola",
+   "nome": "Toxtricity",
+   "regiao": "galar",
+   "nivel": 53350,
+   "especies": [
+    {
+     "pokeId": 849,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "cinderace_alola",
+   "nome": "Cinderace",
+   "regiao": "galar",
+   "nivel": 64950,
+   "especies": [
+    {
+     "pokeId": 815,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "coalossal_alola",
+   "nome": "Coalossal",
+   "regiao": "galar",
+   "nivel": 64950,
+   "especies": [
+    {
+     "pokeId": 839,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "corviknight_alola",
+   "nome": "Corviknight",
+   "regiao": "galar",
+   "nivel": 64950,
+   "especies": [
+    {
+     "pokeId": 823,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "dragapult_alola",
+   "nome": "Dragapult",
+   "regiao": "galar",
+   "nivel": 64950,
+   "especies": [
+    {
+     "pokeId": 887,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "galarian_darmanitan_zen_alola",
+   "nome": "Galarian Darmanitan Zen",
+   "regiao": "galar",
+   "nivel": 64950,
+   "especies": [
+    {
+     "pokeId": 9555,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "grimmsnarl_alola",
+   "nome": "Grimmsnarl",
+   "regiao": "galar",
+   "nivel": 64950,
+   "especies": [
+    {
+     "pokeId": 861,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hatterene_alola",
+   "nome": "Hatterene",
+   "regiao": "galar",
+   "nivel": 64950,
+   "especies": [
+    {
+     "pokeId": 858,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hisuian_decidueye_alola",
+   "nome": "Hisuian Decidueye",
+   "regiao": "galar",
+   "nivel": 64950,
+   "especies": [
+    {
+     "pokeId": 6724,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hisuian_goodra_alola",
+   "nome": "Hisuian Goodra",
+   "regiao": "galar",
+   "nivel": 64950,
+   "especies": [
+    {
+     "pokeId": 6706,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hisuian_samurott_alola",
+   "nome": "Hisuian Samurott",
+   "regiao": "galar",
+   "nivel": 64950,
+   "especies": [
+    {
+     "pokeId": 6503,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hisuian_typhlosion_alola",
+   "nome": "Hisuian Typhlosion",
+   "regiao": "galar",
+   "nivel": 64950,
+   "especies": [
+    {
+     "pokeId": 6157,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "inteleon_alola",
+   "nome": "Inteleon",
+   "regiao": "galar",
+   "nivel": 64950,
+   "especies": [
+    {
+     "pokeId": 818,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "obstagoon_alola",
+   "nome": "Obstagoon",
+   "regiao": "galar",
+   "nivel": 64950,
+   "especies": [
+    {
+     "pokeId": 862,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "orbeetle_alola",
+   "nome": "Orbeetle",
+   "regiao": "galar",
+   "nivel": 64950,
+   "especies": [
+    {
+     "pokeId": 826,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "rillaboom_alola",
+   "nome": "Rillaboom",
+   "regiao": "galar",
+   "nivel": 64950,
+   "especies": [
+    {
+     "pokeId": 812,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "bramblin_alola",
+   "nome": "Bramblin",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 946,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "capsakid_alola",
+   "nome": "Capsakid",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 951,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "cetoddle_alola",
+   "nome": "Cetoddle",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 974,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "charcadet_alola",
+   "nome": "Charcadet",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 935,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "dipplin_alola",
+   "nome": "Dipplin",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 1011,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "fidough_alola",
+   "nome": "Fidough",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 926,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "finizen_alola",
+   "nome": "Finizen",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 963,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "flittle_alola",
+   "nome": "Flittle",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 955,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "frigibax_alola",
+   "nome": "Frigibax",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 996,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "fuecoco_alola",
+   "nome": "Fuecoco",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 909,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "gimmighoul_alola",
+   "nome": "Gimmighoul",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 999,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "glimmet_alola",
+   "nome": "Glimmet",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 969,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "greavard_alola",
+   "nome": "Greavard",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 971,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "lechonk_alola",
+   "nome": "Lechonk",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 915,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "maschiff_alola",
+   "nome": "Maschiff",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 942,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "nacli_alola",
+   "nome": "Nacli",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 932,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "nymble_alola",
+   "nome": "Nymble",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 919,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "paldean_wooper_alola",
+   "nome": "Paldean Wooper",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 7194,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "pawmi_alola",
+   "nome": "Pawmi",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 921,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "poltchageist_alola",
+   "nome": "Poltchageist",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 1012,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "quaxly_alola",
+   "nome": "Quaxly",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 912,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "rellor_alola",
+   "nome": "Rellor",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 953,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "shroodle_alola",
+   "nome": "Shroodle",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 944,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "smoliv_alola",
+   "nome": "Smoliv",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 928,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "sprigatito_alola",
+   "nome": "Sprigatito",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 906,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "tadbulb_alola",
+   "nome": "Tadbulb",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 938,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "tandemaus_alola",
+   "nome": "Tandemaus",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 924,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "tarountula_alola",
+   "nome": "Tarountula",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 917,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "tinkatink_alola",
+   "nome": "Tinkatink",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 957,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "toedscool_alola",
+   "nome": "Toedscool",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 948,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "varoom_alola",
+   "nome": "Varoom",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 965,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "wattrel_alola",
+   "nome": "Wattrel",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 940,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "wiglett_alola",
+   "nome": "Wiglett",
+   "regiao": "paldea",
+   "nivel": 75000,
+   "especies": [
+    {
+     "pokeId": 960,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "bombirdier_alola",
+   "nome": "Bombirdier",
+   "regiao": "paldea",
+   "nivel": 84650,
+   "especies": [
+    {
+     "pokeId": 962,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "clodsire_alola",
+   "nome": "Clodsire",
+   "regiao": "paldea",
+   "nivel": 84650,
+   "especies": [
+    {
+     "pokeId": 980,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "klawf_alola",
+   "nome": "Klawf",
+   "regiao": "paldea",
+   "nivel": 84650,
+   "especies": [
+    {
+     "pokeId": 950,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "orthworm_alola",
+   "nome": "Orthworm",
+   "regiao": "paldea",
+   "nivel": 84650,
+   "especies": [
+    {
+     "pokeId": 968,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "squawkabilly_alola",
+   "nome": "Squawkabilly",
+   "regiao": "paldea",
+   "nivel": 84650,
+   "especies": [
+    {
+     "pokeId": 931,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "tatsugiri_alola",
+   "nome": "Tatsugiri",
+   "regiao": "paldea",
+   "nivel": 84650,
+   "especies": [
+    {
+     "pokeId": 978,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "veluza_alola",
+   "nome": "Veluza",
+   "regiao": "paldea",
+   "nivel": 84650,
+   "especies": [
+    {
+     "pokeId": 976,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "annihilape_alola",
+   "nome": "Annihilape",
+   "regiao": "paldea",
+   "nivel": 95950,
+   "especies": [
+    {
+     "pokeId": 979,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "brute_bonnet_alola",
+   "nome": "Brute Bonnet",
+   "regiao": "paldea",
+   "nivel": 95950,
+   "especies": [
+    {
+     "pokeId": 986,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "cyclizar_alola",
+   "nome": "Cyclizar",
+   "regiao": "paldea",
+   "nivel": 95950,
+   "especies": [
+    {
+     "pokeId": 967,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "dondozo_alola",
+   "nome": "Dondozo",
+   "regiao": "paldea",
+   "nivel": 95950,
+   "especies": [
+    {
+     "pokeId": 977,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "dudunsparce_alola",
+   "nome": "Dudunsparce",
+   "regiao": "paldea",
+   "nivel": 95950,
+   "especies": [
+    {
+     "pokeId": 982,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "farigiraf_alola",
+   "nome": "Farigiraf",
+   "regiao": "paldea",
+   "nivel": 95950,
+   "especies": [
+    {
+     "pokeId": 981,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "flamigo_alola",
+   "nome": "Flamigo",
+   "regiao": "paldea",
+   "nivel": 95950,
+   "especies": [
+    {
+     "pokeId": 973,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "flutter_mane_alola",
+   "nome": "Flutter Mane",
+   "regiao": "paldea",
+   "nivel": 95950,
+   "especies": [
+    {
+     "pokeId": 987,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "great_tusk_alola",
+   "nome": "Great Tusk",
+   "regiao": "paldea",
+   "nivel": 95950,
+   "especies": [
+    {
+     "pokeId": 984,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "iron_bundle_alola",
+   "nome": "Iron Bundle",
+   "regiao": "paldea",
+   "nivel": 95950,
+   "especies": [
+    {
+     "pokeId": 991,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "iron_hands_alola",
+   "nome": "Iron Hands",
+   "regiao": "paldea",
+   "nivel": 95950,
+   "especies": [
+    {
+     "pokeId": 992,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "iron_jugulis_alola",
+   "nome": "Iron Jugulis",
+   "regiao": "paldea",
+   "nivel": 95950,
+   "especies": [
+    {
+     "pokeId": 993,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "iron_moth_alola",
+   "nome": "Iron Moth",
+   "regiao": "paldea",
+   "nivel": 95950,
+   "especies": [
+    {
+     "pokeId": 994,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "iron_thorns_alola",
+   "nome": "Iron Thorns",
+   "regiao": "paldea",
+   "nivel": 95950,
+   "especies": [
+    {
+     "pokeId": 995,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "iron_treads_alola",
+   "nome": "Iron Treads",
+   "regiao": "paldea",
+   "nivel": 95950,
+   "especies": [
+    {
+     "pokeId": 990,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "iron_valiant_alola",
+   "nome": "Iron Valiant",
+   "regiao": "paldea",
+   "nivel": 95950,
+   "especies": [
+    {
+     "pokeId": 1006,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "paldean_tauros_alola",
+   "nome": "Paldean Tauros",
+   "regiao": "paldea",
+   "nivel": 95950,
+   "especies": [
+    {
+     "pokeId": 7128,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "paldean_tauros_aqua_alola",
+   "nome": "Paldean Tauros Aqua",
+   "regiao": "paldea",
+   "nivel": 95950,
+   "especies": [
+    {
+     "pokeId": 9128,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "paldean_tauros_blaze_alola",
+   "nome": "Paldean Tauros Blaze",
+   "regiao": "paldea",
+   "nivel": 95950,
+   "especies": [
+    {
+     "pokeId": 8128,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "roaring_moon_alola",
+   "nome": "Roaring Moon",
+   "regiao": "paldea",
+   "nivel": 95950,
+   "especies": [
+    {
+     "pokeId": 1005,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "sandy_shocks_alola",
+   "nome": "Sandy Shocks",
+   "regiao": "paldea",
+   "nivel": 95950,
+   "especies": [
+    {
+     "pokeId": 989,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "scream_tail_alola",
+   "nome": "Scream Tail",
+   "regiao": "paldea",
+   "nivel": 95950,
+   "especies": [
+    {
+     "pokeId": 985,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "slither_wing_alola",
+   "nome": "Slither Wing",
+   "regiao": "paldea",
+   "nivel": 95950,
+   "especies": [
+    {
+     "pokeId": 988,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "arctibax_alola",
+   "nome": "Arctibax",
+   "regiao": "paldea",
+   "nivel": 108000,
+   "especies": [
+    {
+     "pokeId": 997,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "crocalor_alola",
+   "nome": "Crocalor",
+   "regiao": "paldea",
+   "nivel": 108000,
+   "especies": [
+    {
+     "pokeId": 910,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "dolliv_alola",
+   "nome": "Dolliv",
+   "regiao": "paldea",
+   "nivel": 108000,
+   "especies": [
+    {
+     "pokeId": 929,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "floragato_alola",
+   "nome": "Floragato",
+   "regiao": "paldea",
+   "nivel": 108000,
+   "especies": [
+    {
+     "pokeId": 907,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "naclstack_alola",
+   "nome": "Naclstack",
+   "regiao": "paldea",
+   "nivel": 108000,
+   "especies": [
+    {
+     "pokeId": 933,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "pawmo_alola",
+   "nome": "Pawmo",
+   "regiao": "paldea",
+   "nivel": 108000,
+   "especies": [
+    {
+     "pokeId": 922,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "quaxwell_alola",
+   "nome": "Quaxwell",
+   "regiao": "paldea",
+   "nivel": 108000,
+   "especies": [
+    {
+     "pokeId": 913,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "tinkatuff_alola",
+   "nome": "Tinkatuff",
+   "regiao": "paldea",
+   "nivel": 108000,
+   "especies": [
+    {
+     "pokeId": 958,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "archaludon_alola",
+   "nome": "Archaludon",
+   "regiao": "paldea",
+   "nivel": 120550,
+   "especies": [
+    {
+     "pokeId": 1018,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "armarouge_alola",
+   "nome": "Armarouge",
+   "regiao": "paldea",
+   "nivel": 120550,
+   "especies": [
+    {
+     "pokeId": 936,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "bellibolt_alola",
+   "nome": "Bellibolt",
+   "regiao": "paldea",
+   "nivel": 120550,
+   "especies": [
+    {
+     "pokeId": 939,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "brambleghast_alola",
+   "nome": "Brambleghast",
+   "regiao": "paldea",
+   "nivel": 120550,
+   "especies": [
+    {
+     "pokeId": 947,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "ceruledge_alola",
+   "nome": "Ceruledge",
+   "regiao": "paldea",
+   "nivel": 120550,
+   "especies": [
+    {
+     "pokeId": 937,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "cetitan_alola",
+   "nome": "Cetitan",
+   "regiao": "paldea",
+   "nivel": 120550,
+   "especies": [
+    {
+     "pokeId": 975,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "dachsbun_alola",
+   "nome": "Dachsbun",
+   "regiao": "paldea",
+   "nivel": 120550,
+   "especies": [
+    {
+     "pokeId": 927,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "espathra_alola",
+   "nome": "Espathra",
+   "regiao": "paldea",
+   "nivel": 120550,
+   "especies": [
+    {
+     "pokeId": 956,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "gholdengo_alola",
+   "nome": "Gholdengo",
+   "regiao": "paldea",
+   "nivel": 120550,
+   "especies": [
+    {
+     "pokeId": 1000,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "glimmora_alola",
+   "nome": "Glimmora",
+   "regiao": "paldea",
+   "nivel": 120550,
+   "especies": [
+    {
+     "pokeId": 970,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "grafaiai_alola",
+   "nome": "Grafaiai",
+   "regiao": "paldea",
+   "nivel": 120550,
+   "especies": [
+    {
+     "pokeId": 945,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "houndstone_alola",
+   "nome": "Houndstone",
+   "regiao": "paldea",
+   "nivel": 120550,
+   "especies": [
+    {
+     "pokeId": 972,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "hydrapple_alola",
+   "nome": "Hydrapple",
+   "regiao": "paldea",
+   "nivel": 120550,
+   "especies": [
+    {
+     "pokeId": 1019,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "kilowattrel_alola",
+   "nome": "Kilowattrel",
+   "regiao": "paldea",
+   "nivel": 120550,
+   "especies": [
+    {
+     "pokeId": 941,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "lokix_alola",
+   "nome": "Lokix",
+   "regiao": "paldea",
+   "nivel": 120550,
+   "especies": [
+    {
+     "pokeId": 920,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "mabosstiff_alola",
+   "nome": "Mabosstiff",
+   "regiao": "paldea",
+   "nivel": 120550,
+   "especies": [
+    {
+     "pokeId": 943,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "maushold_alola",
+   "nome": "Maushold",
+   "regiao": "paldea",
+   "nivel": 120550,
+   "especies": [
+    {
+     "pokeId": 925,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "oinkologne_alola",
+   "nome": "Oinkologne",
+   "regiao": "paldea",
+   "nivel": 120550,
+   "especies": [
+    {
+     "pokeId": 916,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "palafin_alola",
+   "nome": "Palafin",
+   "regiao": "paldea",
+   "nivel": 120550,
+   "especies": [
+    {
+     "pokeId": 964,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "palafin_hero_alola",
+   "nome": "Palafin Hero",
+   "regiao": "paldea",
+   "nivel": 120550,
+   "especies": [
+    {
+     "pokeId": 8964,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "rabsca_alola",
+   "nome": "Rabsca",
+   "regiao": "paldea",
+   "nivel": 120550,
+   "especies": [
+    {
+     "pokeId": 954,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "revavroom_alola",
+   "nome": "Revavroom",
+   "regiao": "paldea",
+   "nivel": 120550,
+   "especies": [
+    {
+     "pokeId": 966,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "scovillain_alola",
+   "nome": "Scovillain",
+   "regiao": "paldea",
+   "nivel": 120550,
+   "especies": [
+    {
+     "pokeId": 952,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "sinistcha_alola",
+   "nome": "Sinistcha",
+   "regiao": "paldea",
+   "nivel": 120550,
+   "especies": [
+    {
+     "pokeId": 1013,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "spidops_alola",
+   "nome": "Spidops",
+   "regiao": "paldea",
+   "nivel": 120550,
+   "especies": [
+    {
+     "pokeId": 918,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "toedscruel_alola",
+   "nome": "Toedscruel",
+   "regiao": "paldea",
+   "nivel": 120550,
+   "especies": [
+    {
+     "pokeId": 949,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "wugtrio_alola",
+   "nome": "Wugtrio",
+   "regiao": "paldea",
+   "nivel": 120550,
+   "especies": [
+    {
+     "pokeId": 961,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "arboliva_alola",
+   "nome": "Arboliva",
+   "regiao": "paldea",
+   "nivel": 160300,
+   "especies": [
+    {
+     "pokeId": 930,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "baxcalibur_alola",
+   "nome": "Baxcalibur",
+   "regiao": "paldea",
+   "nivel": 160300,
+   "especies": [
+    {
+     "pokeId": 998,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "bloodmoon_ursaluna_alola",
+   "nome": "Bloodmoon Ursaluna",
+   "regiao": "paldea",
+   "nivel": 160300,
+   "especies": [
+    {
+     "pokeId": 8901,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "garganacl_alola",
+   "nome": "Garganacl",
+   "regiao": "paldea",
+   "nivel": 160300,
+   "especies": [
+    {
+     "pokeId": 934,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "kingambit_alola",
+   "nome": "Kingambit",
+   "regiao": "paldea",
+   "nivel": 160300,
+   "especies": [
+    {
+     "pokeId": 983,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "meowscarada_alola",
+   "nome": "Meowscarada",
+   "regiao": "paldea",
+   "nivel": 160300,
+   "especies": [
+    {
+     "pokeId": 908,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "pawmot_alola",
+   "nome": "Pawmot",
+   "regiao": "paldea",
+   "nivel": 160300,
+   "especies": [
+    {
+     "pokeId": 923,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "quaquaval_alola",
+   "nome": "Quaquaval",
+   "regiao": "paldea",
+   "nivel": 160300,
+   "especies": [
+    {
+     "pokeId": 914,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "skeledirge_alola",
+   "nome": "Skeledirge",
+   "regiao": "paldea",
+   "nivel": 160300,
+   "especies": [
+    {
+     "pokeId": 911,
+     "pontos": 15
+    }
+   ]
+  },
+  {
+   "slug": "tinkaton_alola",
+   "nome": "Tinkaton",
+   "regiao": "paldea",
+   "nivel": 160300,
+   "especies": [
+    {
+     "pokeId": 959,
+     "pontos": 15
+    }
+   ]
+  }
+ ]
+}
